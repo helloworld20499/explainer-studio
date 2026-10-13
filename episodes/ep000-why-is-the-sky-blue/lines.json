@@ -1,0 +1,12 @@
+[
+ ["hook", "Why is the sky blue? Why not purple, or white?", "buddy"],
+ ["hook", "Good question. The answer is hiding inside sunlight.", "host"],
+ ["light", "Sunlight looks white, but it is really every colour mixed together.", "narrator"],
+ ["light", "Each colour travels as a wave. Red waves are long. Blue waves are short.", "narrator"],
+ ["scatter", "When sunlight hits the air, tiny gas molecules bounce the short blue waves all over the sky.", "narrator"],
+ ["scatter", "Blue light scatters almost six times more than red light.", "narrator"],
+ ["violet", "Violet scatters even more. But the sun sends less violet, and our eyes are less sensitive to it.", "narrator"],
+ ["answer", "So the sky is blue because the air scatters blue sunlight in every direction.", "host"],
+ ["outro", "Then why are sunsets orange?", "buddy"],
+ ["outro", "That is our next question!", "host"]
+]

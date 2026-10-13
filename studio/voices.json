@@ -1,0 +1,18 @@
+{
+  "_doc": "One locked voice per speaker. Speaker names = the 3rd item in lines.json and the CAST ids in src/brand.ts. engine: kokoro (any computer), mlx (Apple silicon: design + clone), files (own recordings). See scripts/tts.py.",
+  "language": "en",
+  "defaults": {"takes": 3, "max_wer": 0.08, "sample_rate": 24000},
+  "design_model": "mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-bf16",
+  "voices": {
+    "narrator": {"engine": "kokoro", "voice": "af_heart", "speed": 1.0},
+    "host":     {"engine": "kokoro", "voice": "am_michael", "speed": 1.0},
+    "buddy":    {"engine": "kokoro", "voice": "af_sky", "speed": 1.05}
+  },
+  "_examples": {
+    "mlx_preset_voice": {"engine": "mlx", "model": "mlx-community/Qwen3-TTS-12Hz-1.7B-CustomVoice-bf16", "voice": "Vivian", "lang_code": "en"},
+    "mlx_designed_then_cloned": {"engine": "mlx", "model": "mlx-community/Qwen3-TTS-12Hz-1.7B-Base-bf16",
+      "design": "A warm, curious woman in her thirties, clear and friendly, medium pitch, relaxed pace.",
+      "ref_audio": "voices/host.wav", "ref_text_file": "voices/host.txt", "pitch_tol": 1.0},
+    "own_recordings": {"engine": "files"}
+  }
+}

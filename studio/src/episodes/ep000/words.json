@@ -1,0 +1,644 @@
+{
+ "lines": [
+  {
+   "i": 0,
+   "scene": "hook",
+   "start": 0.6,
+   "text": "Why is the sky blue? Why not purple, or white?",
+   "words": [
+    {
+     "w": "why",
+     "start": 0.6,
+     "end": 0.818
+    },
+    {
+     "w": "is",
+     "start": 0.843,
+     "end": 1.017
+    },
+    {
+     "w": "the",
+     "start": 1.037,
+     "end": 1.255
+    },
+    {
+     "w": "sky",
+     "start": 1.279,
+     "end": 1.498
+    },
+    {
+     "w": "blue",
+     "start": 1.522,
+     "end": 1.784
+    },
+    {
+     "w": "why",
+     "start": 1.813,
+     "end": 2.031
+    },
+    {
+     "w": "not",
+     "start": 2.056,
+     "end": 2.274
+    },
+    {
+     "w": "purple",
+     "start": 2.298,
+     "end": 2.647
+    },
+    {
+     "w": "or",
+     "start": 2.686,
+     "end": 2.861
+    },
+    {
+     "w": "white",
+     "start": 2.88,
+     "end": 3.186
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "scene": "hook",
+   "start": 3.57,
+   "text": "Good question. The answer is hiding inside sunlight.",
+   "words": [
+    {
+     "w": "good",
+     "start": 3.57,
+     "end": 3.877
+    },
+    {
+     "w": "question",
+     "start": 3.911,
+     "end": 4.422
+    },
+    {
+     "w": "the",
+     "start": 4.478,
+     "end": 4.734
+    },
+    {
+     "w": "answer",
+     "start": 4.762,
+     "end": 5.171
+    },
+    {
+     "w": "is",
+     "start": 5.217,
+     "end": 5.421
+    },
+    {
+     "w": "hiding",
+     "start": 5.444,
+     "end": 5.853
+    },
+    {
+     "w": "inside",
+     "start": 5.898,
+     "end": 6.307
+    },
+    {
+     "w": "sunlight",
+     "start": 6.352,
+     "end": 6.863
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "scene": "light",
+   "start": 12.02,
+   "text": "Sunlight looks white, but it is really every colour mixed together.",
+   "words": [
+    {
+     "w": "sunlight",
+     "start": 12.02,
+     "end": 12.431
+    },
+    {
+     "w": "looks",
+     "start": 12.477,
+     "end": 12.765
+    },
+    {
+     "w": "white",
+     "start": 12.797,
+     "end": 13.085
+    },
+    {
+     "w": "but",
+     "start": 13.117,
+     "end": 13.323
+    },
+    {
+     "w": "it",
+     "start": 13.346,
+     "end": 13.51
+    },
+    {
+     "w": "is",
+     "start": 13.529,
+     "end": 13.693
+    },
+    {
+     "w": "really",
+     "start": 13.711,
+     "end": 14.041
+    },
+    {
+     "w": "every",
+     "start": 14.077,
+     "end": 14.365
+    },
+    {
+     "w": "colour",
+     "start": 14.397,
+     "end": 14.726
+    },
+    {
+     "w": "mixed",
+     "start": 14.763,
+     "end": 15.051
+    },
+    {
+     "w": "together",
+     "start": 15.083,
+     "end": 15.494
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "scene": "light",
+   "start": 15.89,
+   "text": "Each colour travels as a wave. Red waves are long. Blue waves are short.",
+   "words": [
+    {
+     "w": "each",
+     "start": 15.89,
+     "end": 16.184
+    },
+    {
+     "w": "colour",
+     "start": 16.216,
+     "end": 16.608
+    },
+    {
+     "w": "travels",
+     "start": 16.652,
+     "end": 17.092
+    },
+    {
+     "w": "as",
+     "start": 17.141,
+     "end": 17.337
+    },
+    {
+     "w": "a",
+     "start": 17.359,
+     "end": 17.506
+    },
+    {
+     "w": "wave",
+     "start": 17.522,
+     "end": 17.816
+    },
+    {
+     "w": "red",
+     "start": 17.849,
+     "end": 18.093
+    },
+    {
+     "w": "waves",
+     "start": 18.121,
+     "end": 18.463
+    },
+    {
+     "w": "are",
+     "start": 18.501,
+     "end": 18.746
+    },
+    {
+     "w": "long",
+     "start": 18.773,
+     "end": 19.067
+    },
+    {
+     "w": "blue",
+     "start": 19.1,
+     "end": 19.394
+    },
+    {
+     "w": "waves",
+     "start": 19.426,
+     "end": 19.769
+    },
+    {
+     "w": "are",
+     "start": 19.807,
+     "end": 20.052
+    },
+    {
+     "w": "short",
+     "start": 20.079,
+     "end": 20.422
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "scene": "scatter",
+   "start": 21.36,
+   "text": "When sunlight hits the air, tiny gas molecules bounce the short blue waves all over the sky.",
+   "words": [
+    {
+     "w": "when",
+     "start": 21.36,
+     "end": 21.649
+    },
+    {
+     "w": "sunlight",
+     "start": 21.681,
+     "end": 22.163
+    },
+    {
+     "w": "hits",
+     "start": 22.216,
+     "end": 22.505
+    },
+    {
+     "w": "the",
+     "start": 22.537,
+     "end": 22.778
+    },
+    {
+     "w": "air",
+     "start": 22.805,
+     "end": 23.046
+    },
+    {
+     "w": "tiny",
+     "start": 23.073,
+     "end": 23.362
+    },
+    {
+     "w": "gas",
+     "start": 23.394,
+     "end": 23.635
+    },
+    {
+     "w": "molecules",
+     "start": 23.661,
+     "end": 24.191
+    },
+    {
+     "w": "bounce",
+     "start": 24.25,
+     "end": 24.635
+    },
+    {
+     "w": "the",
+     "start": 24.678,
+     "end": 24.919
+    },
+    {
+     "w": "short",
+     "start": 24.946,
+     "end": 25.283
+    },
+    {
+     "w": "blue",
+     "start": 25.32,
+     "end": 25.609
+    },
+    {
+     "w": "waves",
+     "start": 25.641,
+     "end": 25.979
+    },
+    {
+     "w": "all",
+     "start": 26.016,
+     "end": 26.257
+    },
+    {
+     "w": "over",
+     "start": 26.284,
+     "end": 26.573
+    },
+    {
+     "w": "the",
+     "start": 26.605,
+     "end": 26.846
+    },
+    {
+     "w": "sky",
+     "start": 26.872,
+     "end": 27.113
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "scene": "scatter",
+   "start": 27.49,
+   "text": "Blue light scatters almost six times more than red light.",
+   "words": [
+    {
+     "w": "blue",
+     "start": 27.49,
+     "end": 27.743
+    },
+    {
+     "w": "light",
+     "start": 27.771,
+     "end": 28.066
+    },
+    {
+     "w": "scatters",
+     "start": 28.099,
+     "end": 28.521
+    },
+    {
+     "w": "almost",
+     "start": 28.568,
+     "end": 28.905
+    },
+    {
+     "w": "six",
+     "start": 28.943,
+     "end": 29.154
+    },
+    {
+     "w": "times",
+     "start": 29.177,
+     "end": 29.472
+    },
+    {
+     "w": "more",
+     "start": 29.505,
+     "end": 29.758
+    },
+    {
+     "w": "than",
+     "start": 29.786,
+     "end": 30.039
+    },
+    {
+     "w": "red",
+     "start": 30.068,
+     "end": 30.279
+    },
+    {
+     "w": "light",
+     "start": 30.302,
+     "end": 30.597
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "scene": "violet",
+   "start": 31.53,
+   "text": "Violet scatters even more. But the sun sends less violet, and our eyes are less sensitive to it.",
+   "words": [
+    {
+     "w": "violet",
+     "start": 31.53,
+     "end": 31.917
+    },
+    {
+     "w": "scatters",
+     "start": 31.96,
+     "end": 32.444
+    },
+    {
+     "w": "even",
+     "start": 32.498,
+     "end": 32.788
+    },
+    {
+     "w": "more",
+     "start": 32.82,
+     "end": 33.11
+    },
+    {
+     "w": "but",
+     "start": 33.142,
+     "end": 33.384
+    },
+    {
+     "w": "the",
+     "start": 33.411,
+     "end": 33.653
+    },
+    {
+     "w": "sun",
+     "start": 33.68,
+     "end": 33.922
+    },
+    {
+     "w": "sends",
+     "start": 33.949,
+     "end": 34.287
+    },
+    {
+     "w": "less",
+     "start": 34.325,
+     "end": 34.615
+    },
+    {
+     "w": "violet",
+     "start": 34.647,
+     "end": 35.034
+    },
+    {
+     "w": "and",
+     "start": 35.077,
+     "end": 35.319
+    },
+    {
+     "w": "our",
+     "start": 35.346,
+     "end": 35.588
+    },
+    {
+     "w": "eyes",
+     "start": 35.615,
+     "end": 35.905
+    },
+    {
+     "w": "are",
+     "start": 35.937,
+     "end": 36.179
+    },
+    {
+     "w": "less",
+     "start": 36.206,
+     "end": 36.496
+    },
+    {
+     "w": "sensitive",
+     "start": 36.529,
+     "end": 37.061
+    },
+    {
+     "w": "to",
+     "start": 37.12,
+     "end": 37.313
+    },
+    {
+     "w": "it",
+     "start": 37.335,
+     "end": 37.528
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "scene": "answer",
+   "start": 38.45,
+   "text": "So the sky is blue because the air scatters blue sunlight in every direction.",
+   "words": [
+    {
+     "w": "so",
+     "start": 38.45,
+     "end": 38.641
+    },
+    {
+     "w": "the",
+     "start": 38.663,
+     "end": 38.902
+    },
+    {
+     "w": "sky",
+     "start": 38.929,
+     "end": 39.168
+    },
+    {
+     "w": "is",
+     "start": 39.195,
+     "end": 39.386
+    },
+    {
+     "w": "blue",
+     "start": 39.407,
+     "end": 39.695
+    },
+    {
+     "w": "because",
+     "start": 39.726,
+     "end": 40.157
+    },
+    {
+     "w": "the",
+     "start": 40.205,
+     "end": 40.445
+    },
+    {
+     "w": "air",
+     "start": 40.471,
+     "end": 40.71
+    },
+    {
+     "w": "scatters",
+     "start": 40.737,
+     "end": 41.216
+    },
+    {
+     "w": "blue",
+     "start": 41.269,
+     "end": 41.556
+    },
+    {
+     "w": "sunlight",
+     "start": 41.588,
+     "end": 42.067
+    },
+    {
+     "w": "in",
+     "start": 42.12,
+     "end": 42.311
+    },
+    {
+     "w": "every",
+     "start": 42.333,
+     "end": 42.668
+    },
+    {
+     "w": "direction",
+     "start": 42.705,
+     "end": 43.231
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "scene": "outro",
+   "start": 44.19,
+   "text": "Then why are sunsets orange?",
+   "words": [
+    {
+     "w": "then",
+     "start": 44.19,
+     "end": 44.501
+    },
+    {
+     "w": "why",
+     "start": 44.535,
+     "end": 44.795
+    },
+    {
+     "w": "are",
+     "start": 44.823,
+     "end": 45.082
+    },
+    {
+     "w": "sunsets",
+     "start": 45.111,
+     "end": 45.578
+    },
+    {
+     "w": "orange",
+     "start": 45.629,
+     "end": 46.044
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "scene": "outro",
+   "start": 46.44,
+   "text": "That is our next question!",
+   "words": [
+    {
+     "w": "that",
+     "start": 46.44,
+     "end": 46.738
+    },
+    {
+     "w": "is",
+     "start": 46.771,
+     "end": 46.97
+    },
+    {
+     "w": "our",
+     "start": 46.992,
+     "end": 47.24
+    },
+    {
+     "w": "next",
+     "start": 47.267,
+     "end": 47.565
+    },
+    {
+     "w": "question",
+     "start": 47.598,
+     "end": 48.095
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+node_modules
+.DS_Store
+__pycache__/
+*.pyc
+studio/.work/
+studio/out/
+studio/.models/
+studio/public/_work/
+studio/voices/candidates/
+deliverables
+# music and finished videos: keep in your delivery folders, not in git
+episodes/*/music/
+brand/music/
+*.mp4
+*.mov
+studio/.venv/
+
+# packed skill (scripts/pack-skill.sh)
+dist/

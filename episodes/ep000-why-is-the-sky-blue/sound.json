@@ -1,0 +1,17 @@
+{
+  "music": {
+    "bpm": 120,
+    "sections": [
+      ["L1e", "L1e+4.2", ["F", "Dm", "Bb", "C"], "bright", "sting"],
+      ["L2", "L7e", ["F", "Am", "Bb", "C"], "groove", "bed"],
+      ["L8", "end", ["F", "Dm", "Bb", "C"], "bright", "outro", {"anchor": "end"}]
+    ],
+    "button": "L9e+2.0"
+  },
+  "sfx": [
+    ["L1e+0.2", "whoosh", 0.5],
+    ["L2+1.0", "shimmer", 0.5],
+    ["L5+1.2", "ding", 0.6],
+    ["L9e+1.0", "click", 0.7]
+  ]
+}
