@@ -1,0 +1,438 @@
+{
+ "lines": [
+  {
+   "i": 0,
+   "scene": "hook",
+   "text": "Dad, what are you actually doing to that steak?",
+   "speaker": "pip",
+   "dur": 3.19,
+   "start": 0.6,
+   "end": 3.79
+  },
+  {
+   "i": 1,
+   "scene": "hook",
+   "text": "I'm cooking, Pip! Heat makes it juicy, crispy, and delicious.",
+   "speaker": "leo",
+   "dur": 4.4,
+   "start": 4.14,
+   "end": 8.54
+  },
+  {
+   "i": 2,
+   "scene": "hook",
+   "text": "Grandma always said fire is magic, but is it magic or science?",
+   "speaker": "pip",
+   "dur": 4.94,
+   "start": 8.89,
+   "end": 13.83
+  },
+  {
+   "i": 3,
+   "scene": "hook",
+   "text": "It is pure physics and chemistry. Let's draw it!",
+   "speaker": "maya",
+   "dur": 3.44,
+   "start": 14.18,
+   "end": 17.62
+  },
+  {
+   "i": 4,
+   "scene": "definition",
+   "text": "Cooking is transforming raw food into something edible, nourishing, and delicious.",
+   "speaker": "leo",
+   "dur": 4.79,
+   "start": 22.92,
+   "end": 27.71
+  },
+  {
+   "i": 5,
+   "scene": "definition",
+   "text": "Raw plants and meat are packed with energy, but our bodies cannot easily digest them.",
+   "speaker": "leo",
+   "dur": 5.42,
+   "start": 28.06,
+   "end": 33.48
+  },
+  {
+   "i": 6,
+   "scene": "definition",
+   "text": "To unlock those nutrients, we have to inject energy from the outside world.",
+   "speaker": "leo",
+   "dur": 4.14,
+   "start": 33.83,
+   "end": 37.97
+  },
+  {
+   "i": 7,
+   "scene": "definition",
+   "text": "And for thousands of years, humans have relied on one universal energy source: heat.",
+   "speaker": "leo",
+   "dur": 5.66,
+   "start": 38.32,
+   "end": 43.98
+  },
+  {
+   "i": 8,
+   "scene": "energy",
+   "text": "Heat enters our food in three distinct ways.",
+   "speaker": "leo",
+   "dur": 2.72,
+   "start": 44.88,
+   "end": 47.6
+  },
+  {
+   "i": 9,
+   "scene": "energy",
+   "text": "First is conduction: direct contact between hot atoms.",
+   "speaker": "leo",
+   "dur": 4.22,
+   "start": 47.95,
+   "end": 52.17
+  },
+  {
+   "i": 10,
+   "scene": "energy",
+   "text": "When a steak touches a blistering iron skillet, heat conducts straight into the surface.",
+   "speaker": "leo",
+   "dur": 4.71,
+   "start": 52.52,
+   "end": 57.23
+  },
+  {
+   "i": 11,
+   "scene": "energy",
+   "text": "Second is convection: heat carried through moving liquids or gases.",
+   "speaker": "leo",
+   "dur": 4.3,
+   "start": 57.58,
+   "end": 61.88
+  },
+  {
+   "i": 12,
+   "scene": "energy",
+   "text": "Swirling boiling water cooks pasta, and rolling hot air bakes bread in a convection oven.",
+   "speaker": "leo",
+   "dur": 5.66,
+   "start": 62.23,
+   "end": 67.89
+  },
+  {
+   "i": 13,
+   "scene": "energy",
+   "text": "Third is radiation: energy traveling as waves of light.",
+   "speaker": "leo",
+   "dur": 3.74,
+   "start": 68.24,
+   "end": 71.98
+  },
+  {
+   "i": 14,
+   "scene": "energy",
+   "text": "Glowing broiler coals radiate infrared, while a microwave uses electromagnetic waves to shake water molecules.",
+   "speaker": "leo",
+   "dur": 7.11,
+   "start": 72.33,
+   "end": 79.44
+  },
+  {
+   "i": 15,
+   "scene": "proteins",
+   "text": "Once that heat enters food, a molecular revolution begins.",
+   "speaker": "leo",
+   "dur": 4.06,
+   "start": 80.34,
+   "end": 84.4
+  },
+  {
+   "i": 16,
+   "scene": "proteins",
+   "text": "Raw meats and eggs are filled with tightly folded proteins.",
+   "speaker": "leo",
+   "dur": 3.6,
+   "start": 84.75,
+   "end": 88.35
+  },
+  {
+   "i": 17,
+   "scene": "proteins",
+   "text": "As the temperature climbs, heat breaks the weak bonds holding them together.",
+   "speaker": "leo",
+   "dur": 4.64,
+   "start": 88.7,
+   "end": 93.34
+  },
+  {
+   "i": 18,
+   "scene": "proteins",
+   "text": "The proteins denature and unfold like loose yarn, then tangle into a firm, juicy network.",
+   "speaker": "leo",
+   "dur": 6.31,
+   "start": 93.69,
+   "end": 100.0
+  },
+  {
+   "i": 19,
+   "scene": "proteins",
+   "text": "That is why liquid egg whites turn solid white, and raw meat firms up as it cooks.",
+   "speaker": "leo",
+   "dur": 5.26,
+   "start": 100.35,
+   "end": 105.61
+  },
+  {
+   "i": 20,
+   "scene": "starches",
+   "text": "Vegetables and grains undergo their own dramatic transformation.",
+   "speaker": "leo",
+   "dur": 3.58,
+   "start": 106.51,
+   "end": 110.09
+  },
+  {
+   "i": 21,
+   "scene": "starches",
+   "text": "Raw potatoes, beans, and rice are crammed with tight, rock-hard starch granules.",
+   "speaker": "leo",
+   "dur": 5.2,
+   "start": 110.44,
+   "end": 115.64
+  },
+  {
+   "i": 22,
+   "scene": "starches",
+   "text": "In cold water, starch granules sit completely unchanged.",
+   "speaker": "leo",
+   "dur": 4.0,
+   "start": 115.99,
+   "end": 119.99
+  },
+  {
+   "i": 23,
+   "scene": "starches",
+   "text": "But when hot water penetrates, the starches swell like thousands of tiny sponges.",
+   "speaker": "leo",
+   "dur": 4.94,
+   "start": 120.34,
+   "end": 125.28
+  },
+  {
+   "i": 24,
+   "scene": "starches",
+   "text": "They burst open in a process called gelatinization, turning tough plants soft and easily digestible.",
+   "speaker": "leo",
+   "dur": 6.08,
+   "start": 125.63,
+   "end": 131.71
+  },
+  {
+   "i": 25,
+   "scene": "flavors",
+   "text": "Then comes the most delicious part of all: browning.",
+   "speaker": "leo",
+   "dur": 3.26,
+   "start": 132.61,
+   "end": 135.87
+  },
+  {
+   "i": 26,
+   "scene": "flavors",
+   "text": "When surface temperatures pass two hundred and eighty degrees Fahrenheit, the Maillard reaction ignites.",
+   "speaker": "leo",
+   "dur": 5.76,
+   "start": 136.22,
+   "end": 141.98
+  },
+  {
+   "i": 27,
+   "scene": "flavors",
+   "text": "Amino acids from proteins crash into simple sugars.",
+   "speaker": "leo",
+   "dur": 3.74,
+   "start": 142.33,
+   "end": 146.07
+  },
+  {
+   "i": 28,
+   "scene": "flavors",
+   "text": "They fracture and recombine into hundreds of brand new flavor compounds.",
+   "speaker": "leo",
+   "dur": 4.39,
+   "start": 146.42,
+   "end": 150.81
+  },
+  {
+   "i": 29,
+   "scene": "flavors",
+   "text": "That single reaction creates the savory crust on bread, roasted coffee, and seared steak.",
+   "speaker": "leo",
+   "dur": 5.67,
+   "start": 151.16,
+   "end": 156.83
+  },
+  {
+   "i": 30,
+   "scene": "flavors",
+   "text": "Pure sugars melt and caramelize, adding rich nuttiness and deep golden color.",
+   "speaker": "leo",
+   "dur": 5.26,
+   "start": 157.18,
+   "end": 162.44
+  },
+  {
+   "i": 31,
+   "scene": "safety",
+   "text": "Cooking also acts as our first line of biological defense.",
+   "speaker": "june",
+   "dur": 5.48,
+   "start": 163.34,
+   "end": 168.82
+  },
+  {
+   "i": 32,
+   "scene": "safety",
+   "text": "High temperatures destroy harmful bacteria like Salmonella and E. coli in raw food.",
+   "speaker": "june",
+   "dur": 7.44,
+   "start": 169.17,
+   "end": 176.61
+  },
+  {
+   "i": 33,
+   "scene": "safety",
+   "text": "Heat also deactivates enzymes that cause fresh foods to rot and spoil.",
+   "speaker": "june",
+   "dur": 5.91,
+   "start": 176.96,
+   "end": 182.87
+  },
+  {
+   "i": 34,
+   "scene": "safety",
+   "text": "And it breaks down dangerous plant toxins, like the lectins found in raw kidney beans.",
+   "speaker": "june",
+   "dur": 7.37,
+   "start": 183.22,
+   "end": 190.59
+  },
+  {
+   "i": 35,
+   "scene": "safety",
+   "text": "Without heat, many staples we eat every day would actually make us sick.",
+   "speaker": "june",
+   "dur": 5.95,
+   "start": 190.94,
+   "end": 196.89
+  },
+  {
+   "i": 36,
+   "scene": "evolution",
+   "text": "In fact, cooking may be the single reason modern humans exist at all.",
+   "speaker": "leo",
+   "dur": 4.24,
+   "start": 197.79,
+   "end": 202.03
+  },
+  {
+   "i": 37,
+   "scene": "evolution",
+   "text": "Harvard anthropologist Richard Wrangham discovered that cooking effectively pre-digests our food.",
+   "speaker": "leo",
+   "dur": 5.75,
+   "start": 202.38,
+   "end": 208.13
+  },
+  {
+   "i": 38,
+   "scene": "evolution",
+   "text": "Instead of chewing raw food for six hours a day, our ancestors absorbed calories in minutes.",
+   "speaker": "leo",
+   "dur": 5.5,
+   "start": 208.48,
+   "end": 213.98
+  },
+  {
+   "i": 39,
+   "scene": "evolution",
+   "text": "That massive surge of surplus energy allowed early humans to develop smaller guts and much larger brains.",
+   "speaker": "leo",
+   "dur": 6.78,
+   "start": 214.33,
+   "end": 221.11
+  },
+  {
+   "i": 40,
+   "scene": "evolution",
+   "text": "Harnessing fire did not just feed our bodies\u2014it literally built our minds.",
+   "speaker": "leo",
+   "dur": 4.38,
+   "start": 221.46,
+   "end": 225.84
+  },
+  {
+   "i": 41,
+   "scene": "tips",
+   "text": "So here is your kitchen takeaway.",
+   "speaker": "maya",
+   "dur": 2.0,
+   "start": 226.74,
+   "end": 228.74
+  },
+  {
+   "i": 42,
+   "scene": "tips",
+   "text": "Match your heat transfer method to the food: conduction for a crisp sear, convection for gentle even cooking.",
+   "speaker": "maya",
+   "dur": 6.95,
+   "start": 229.09,
+   "end": 236.04
+  },
+  {
+   "i": 43,
+   "scene": "tips",
+   "text": "Control internal heat: gentle temperatures keep proteins juicy, while high surface heat builds crust and aroma.",
+   "speaker": "maya",
+   "dur": 7.43,
+   "start": 236.39,
+   "end": 243.82
+  },
+  {
+   "i": 44,
+   "scene": "tips",
+   "text": "And remember that cooking is an ongoing science experiment you get to eat.",
+   "speaker": "maya",
+   "dur": 4.4,
+   "start": 244.17,
+   "end": 248.57
+  },
+  {
+   "i": 45,
+   "scene": "answer",
+   "text": "Cooking is using heat energy to transform physics and chemistry into flavor, safety, and human nourishment.",
+   "speaker": "theo",
+   "dur": 6.08,
+   "start": 249.47,
+   "end": 255.55
+  },
+  {
+   "i": 46,
+   "scene": "outro",
+   "text": "So fire really was humanity's first superpower!",
+   "speaker": "pip",
+   "dur": 3.26,
+   "start": 256.45,
+   "end": 259.71
+  },
+  {
+   "i": 47,
+   "scene": "outro",
+   "text": "Then why is cookware made from so many different metals?",
+   "speaker": "pip",
+   "dur": 3.36,
+   "start": 260.06,
+   "end": 263.42
+  }
+ ],
+ "total": 269.92,
+ "estimated": false
+}

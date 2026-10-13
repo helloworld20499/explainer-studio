@@ -1,0 +1,3268 @@
+{
+ "lines": [
+  {
+   "i": 0,
+   "scene": "hook",
+   "start": 0.6,
+   "text": "Dad, what are you actually doing to that steak?",
+   "words": [
+    {
+     "w": "dad",
+     "start": 0.6,
+     "end": 1.36
+    },
+    {
+     "w": "what",
+     "start": 1.7,
+     "end": 1.96
+    },
+    {
+     "w": "are",
+     "start": 1.96,
+     "end": 2.08
+    },
+    {
+     "w": "you",
+     "start": 2.08,
+     "end": 2.16
+    },
+    {
+     "w": "actually",
+     "start": 2.16,
+     "end": 2.46
+    },
+    {
+     "w": "doing",
+     "start": 2.46,
+     "end": 2.78
+    },
+    {
+     "w": "to",
+     "start": 2.78,
+     "end": 2.94
+    },
+    {
+     "w": "that",
+     "start": 2.94,
+     "end": 3.1
+    },
+    {
+     "w": "steak",
+     "start": 3.1,
+     "end": 3.42
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "scene": "hook",
+   "start": 4.14,
+   "text": "I'm cooking, Pip! Heat makes it juicy, crispy, and delicious.",
+   "words": [
+    {
+     "w": "i'm",
+     "start": 4.14,
+     "end": 4.68
+    },
+    {
+     "w": "cooking",
+     "start": 4.68,
+     "end": 5.0
+    },
+    {
+     "w": "pip",
+     "start": 5.18,
+     "end": 5.36
+    },
+    {
+     "w": "heat",
+     "start": 5.66,
+     "end": 6.22
+    },
+    {
+     "w": "makes",
+     "start": 6.22,
+     "end": 6.46
+    },
+    {
+     "w": "it",
+     "start": 6.46,
+     "end": 6.6
+    },
+    {
+     "w": "juicy",
+     "start": 6.6,
+     "end": 7.0
+    },
+    {
+     "w": "crispy",
+     "start": 7.22,
+     "end": 7.58
+    },
+    {
+     "w": "and",
+     "start": 7.78,
+     "end": 7.84
+    },
+    {
+     "w": "delicious",
+     "start": 7.84,
+     "end": 8.18
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "scene": "hook",
+   "start": 8.89,
+   "text": "Grandma always said fire is magic, but is it magic or science?",
+   "words": [
+    {
+     "w": "grandma",
+     "start": 8.89,
+     "end": 9.65
+    },
+    {
+     "w": "always",
+     "start": 9.65,
+     "end": 10.09
+    },
+    {
+     "w": "said",
+     "start": 10.09,
+     "end": 10.37
+    },
+    {
+     "w": "fire",
+     "start": 10.37,
+     "end": 10.71
+    },
+    {
+     "w": "is",
+     "start": 10.71,
+     "end": 10.95
+    },
+    {
+     "w": "magic",
+     "start": 10.95,
+     "end": 11.33
+    },
+    {
+     "w": "but",
+     "start": 11.77,
+     "end": 11.97
+    },
+    {
+     "w": "is",
+     "start": 11.97,
+     "end": 12.11
+    },
+    {
+     "w": "it",
+     "start": 12.11,
+     "end": 12.25
+    },
+    {
+     "w": "magic",
+     "start": 12.25,
+     "end": 12.61
+    },
+    {
+     "w": "or",
+     "start": 12.61,
+     "end": 12.99
+    },
+    {
+     "w": "science",
+     "start": 12.99,
+     "end": 13.47
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "scene": "hook",
+   "start": 14.18,
+   "text": "It is pure physics and chemistry. Let's draw it!",
+   "words": [
+    {
+     "w": "it",
+     "start": 14.18,
+     "end": 14.42
+    },
+    {
+     "w": "is",
+     "start": 14.42,
+     "end": 14.54
+    },
+    {
+     "w": "pure",
+     "start": 14.54,
+     "end": 14.86
+    },
+    {
+     "w": "physics",
+     "start": 14.86,
+     "end": 15.3
+    },
+    {
+     "w": "and",
+     "start": 15.3,
+     "end": 15.68
+    },
+    {
+     "w": "chemistry",
+     "start": 15.68,
+     "end": 16.2
+    },
+    {
+     "w": "let's",
+     "start": 16.58,
+     "end": 17.04
+    },
+    {
+     "w": "draw",
+     "start": 17.04,
+     "end": 17.24
+    },
+    {
+     "w": "it",
+     "start": 17.24,
+     "end": 17.48
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "scene": "definition",
+   "start": 22.92,
+   "text": "Cooking is transforming raw food into something edible, nourishing, and delicious.",
+   "words": [
+    {
+     "w": "cooking",
+     "start": 22.92,
+     "end": 23.78
+    },
+    {
+     "w": "is",
+     "start": 23.78,
+     "end": 23.96
+    },
+    {
+     "w": "transforming",
+     "start": 23.96,
+     "end": 24.46
+    },
+    {
+     "w": "raw",
+     "start": 24.46,
+     "end": 24.72
+    },
+    {
+     "w": "food",
+     "start": 24.72,
+     "end": 25.02
+    },
+    {
+     "w": "into",
+     "start": 25.02,
+     "end": 25.18
+    },
+    {
+     "w": "something",
+     "start": 25.18,
+     "end": 25.46
+    },
+    {
+     "w": "edible",
+     "start": 25.46,
+     "end": 25.78
+    },
+    {
+     "w": "nourishing",
+     "start": 26.18,
+     "end": 26.76
+    },
+    {
+     "w": "and",
+     "start": 26.98,
+     "end": 27.06
+    },
+    {
+     "w": "delicious",
+     "start": 27.06,
+     "end": 27.34
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "scene": "definition",
+   "start": 28.06,
+   "text": "Raw plants and meat are packed with energy, but our bodies cannot easily digest them.",
+   "words": [
+    {
+     "w": "raw",
+     "start": 28.06,
+     "end": 29.02
+    },
+    {
+     "w": "plants",
+     "start": 29.02,
+     "end": 29.48
+    },
+    {
+     "w": "and",
+     "start": 29.48,
+     "end": 29.64
+    },
+    {
+     "w": "meat",
+     "start": 29.64,
+     "end": 29.86
+    },
+    {
+     "w": "are",
+     "start": 29.86,
+     "end": 30.04
+    },
+    {
+     "w": "packed",
+     "start": 30.04,
+     "end": 30.38
+    },
+    {
+     "w": "with",
+     "start": 30.38,
+     "end": 30.54
+    },
+    {
+     "w": "energy",
+     "start": 30.54,
+     "end": 30.9
+    },
+    {
+     "w": "but",
+     "start": 31.24,
+     "end": 31.56
+    },
+    {
+     "w": "our",
+     "start": 31.56,
+     "end": 31.68
+    },
+    {
+     "w": "bodies",
+     "start": 31.68,
+     "end": 31.98
+    },
+    {
+     "w": "cannot",
+     "start": 31.98,
+     "end": 32.24
+    },
+    {
+     "w": "easily",
+     "start": 32.24,
+     "end": 32.74
+    },
+    {
+     "w": "digest",
+     "start": 32.74,
+     "end": 33.14
+    },
+    {
+     "w": "them",
+     "start": 33.14,
+     "end": 33.36
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "scene": "definition",
+   "start": 33.83,
+   "text": "To unlock those nutrients, we have to inject energy from the outside world.",
+   "words": [
+    {
+     "w": "to",
+     "start": 33.83,
+     "end": 34.41
+    },
+    {
+     "w": "unlock",
+     "start": 34.41,
+     "end": 34.75
+    },
+    {
+     "w": "those",
+     "start": 34.75,
+     "end": 34.97
+    },
+    {
+     "w": "nutrients",
+     "start": 34.97,
+     "end": 35.33
+    },
+    {
+     "w": "we",
+     "start": 35.61,
+     "end": 35.83
+    },
+    {
+     "w": "have",
+     "start": 35.83,
+     "end": 35.95
+    },
+    {
+     "w": "to",
+     "start": 35.95,
+     "end": 36.07
+    },
+    {
+     "w": "inject",
+     "start": 36.07,
+     "end": 36.37
+    },
+    {
+     "w": "energy",
+     "start": 36.37,
+     "end": 36.75
+    },
+    {
+     "w": "from",
+     "start": 36.75,
+     "end": 36.95
+    },
+    {
+     "w": "the",
+     "start": 36.95,
+     "end": 37.05
+    },
+    {
+     "w": "outside",
+     "start": 37.05,
+     "end": 37.35
+    },
+    {
+     "w": "world",
+     "start": 37.35,
+     "end": 37.77
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "scene": "definition",
+   "start": 38.32,
+   "text": "And for thousands of years, humans have relied on one universal energy source: heat.",
+   "words": [
+    {
+     "w": "and",
+     "start": 38.32,
+     "end": 38.96
+    },
+    {
+     "w": "for",
+     "start": 38.96,
+     "end": 39.12
+    },
+    {
+     "w": "thousands",
+     "start": 39.12,
+     "end": 39.5
+    },
+    {
+     "w": "of",
+     "start": 39.5,
+     "end": 39.74
+    },
+    {
+     "w": "years",
+     "start": 39.74,
+     "end": 40.06
+    },
+    {
+     "w": "humans",
+     "start": 40.3,
+     "end": 40.74
+    },
+    {
+     "w": "have",
+     "start": 40.74,
+     "end": 40.92
+    },
+    {
+     "w": "relied",
+     "start": 40.92,
+     "end": 41.22
+    },
+    {
+     "w": "on",
+     "start": 41.22,
+     "end": 41.44
+    },
+    {
+     "w": "one",
+     "start": 41.44,
+     "end": 41.76
+    },
+    {
+     "w": "universal",
+     "start": 41.76,
+     "end": 42.22
+    },
+    {
+     "w": "energy",
+     "start": 42.22,
+     "end": 42.58
+    },
+    {
+     "w": "source",
+     "start": 42.58,
+     "end": 42.94
+    },
+    {
+     "w": "heat",
+     "start": 43.26,
+     "end": 43.64
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "scene": "energy",
+   "start": 44.88,
+   "text": "Heat enters our food in three distinct ways.",
+   "words": [
+    {
+     "w": "heat",
+     "start": 44.88,
+     "end": 45.48
+    },
+    {
+     "w": "enters",
+     "start": 45.48,
+     "end": 45.8
+    },
+    {
+     "w": "our",
+     "start": 45.8,
+     "end": 45.98
+    },
+    {
+     "w": "food",
+     "start": 45.98,
+     "end": 46.26
+    },
+    {
+     "w": "in",
+     "start": 46.26,
+     "end": 46.46
+    },
+    {
+     "w": "three",
+     "start": 46.46,
+     "end": 46.7
+    },
+    {
+     "w": "distinct",
+     "start": 46.7,
+     "end": 47.1
+    },
+    {
+     "w": "ways",
+     "start": 47.1,
+     "end": 47.42
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "scene": "energy",
+   "start": 47.95,
+   "text": "First is conduction: direct contact between hot atoms.",
+   "words": [
+    {
+     "w": "first",
+     "start": 47.95,
+     "end": 48.75
+    },
+    {
+     "w": "is",
+     "start": 48.75,
+     "end": 48.97
+    },
+    {
+     "w": "conduction",
+     "start": 48.97,
+     "end": 49.47
+    },
+    {
+     "w": "direct",
+     "start": 49.85,
+     "end": 50.39
+    },
+    {
+     "w": "contact",
+     "start": 50.39,
+     "end": 50.95
+    },
+    {
+     "w": "between",
+     "start": 50.95,
+     "end": 51.29
+    },
+    {
+     "w": "hot",
+     "start": 51.29,
+     "end": 51.63
+    },
+    {
+     "w": "atoms",
+     "start": 51.63,
+     "end": 51.95
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "scene": "energy",
+   "start": 52.52,
+   "text": "When a steak touches a blistering iron skillet, heat conducts straight into the surface.",
+   "words": [
+    {
+     "w": "when",
+     "start": 52.52,
+     "end": 53.16
+    },
+    {
+     "w": "a",
+     "start": 53.16,
+     "end": 53.26
+    },
+    {
+     "w": "steak",
+     "start": 53.26,
+     "end": 53.5
+    },
+    {
+     "w": "touches",
+     "start": 53.5,
+     "end": 53.8
+    },
+    {
+     "w": "a",
+     "start": 53.8,
+     "end": 54.0
+    },
+    {
+     "w": "blistering",
+     "start": 54.0,
+     "end": 54.52
+    },
+    {
+     "w": "iron",
+     "start": 54.52,
+     "end": 54.72
+    },
+    {
+     "w": "skillet",
+     "start": 54.72,
+     "end": 55.14
+    },
+    {
+     "w": "heat",
+     "start": 55.32,
+     "end": 55.64
+    },
+    {
+     "w": "conducts",
+     "start": 55.64,
+     "end": 56.16
+    },
+    {
+     "w": "straight",
+     "start": 56.16,
+     "end": 56.34
+    },
+    {
+     "w": "into",
+     "start": 56.34,
+     "end": 56.54
+    },
+    {
+     "w": "the",
+     "start": 56.54,
+     "end": 56.68
+    },
+    {
+     "w": "surface",
+     "start": 56.68,
+     "end": 56.96
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "scene": "energy",
+   "start": 57.58,
+   "text": "Second is convection: heat carried through moving liquids or gases.",
+   "words": [
+    {
+     "w": "second",
+     "start": 57.58,
+     "end": 58.6
+    },
+    {
+     "w": "is",
+     "start": 58.6,
+     "end": 58.8
+    },
+    {
+     "w": "convection",
+     "start": 58.8,
+     "end": 59.22
+    },
+    {
+     "w": "heat",
+     "start": 59.52,
+     "end": 60.04
+    },
+    {
+     "w": "carried",
+     "start": 60.04,
+     "end": 60.36
+    },
+    {
+     "w": "through",
+     "start": 60.36,
+     "end": 60.52
+    },
+    {
+     "w": "moving",
+     "start": 60.52,
+     "end": 60.8
+    },
+    {
+     "w": "liquids",
+     "start": 60.8,
+     "end": 61.16
+    },
+    {
+     "w": "or",
+     "start": 61.16,
+     "end": 61.32
+    },
+    {
+     "w": "gases",
+     "start": 61.32,
+     "end": 61.64
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "scene": "energy",
+   "start": 62.23,
+   "text": "Swirling boiling water cooks pasta, and rolling hot air bakes bread in a convection oven.",
+   "words": [
+    {
+     "w": "swirling",
+     "start": 62.23,
+     "end": 63.31
+    },
+    {
+     "w": "boiling",
+     "start": 63.31,
+     "end": 63.55
+    },
+    {
+     "w": "water",
+     "start": 63.55,
+     "end": 63.99
+    },
+    {
+     "w": "cooks",
+     "start": 63.99,
+     "end": 64.31
+    },
+    {
+     "w": "pasta",
+     "start": 64.31,
+     "end": 64.75
+    },
+    {
+     "w": "and",
+     "start": 64.91,
+     "end": 65.29
+    },
+    {
+     "w": "rolling",
+     "start": 65.29,
+     "end": 65.65
+    },
+    {
+     "w": "hot",
+     "start": 65.65,
+     "end": 65.85
+    },
+    {
+     "w": "air",
+     "start": 65.85,
+     "end": 66.13
+    },
+    {
+     "w": "bakes",
+     "start": 66.13,
+     "end": 66.47
+    },
+    {
+     "w": "bread",
+     "start": 66.47,
+     "end": 66.77
+    },
+    {
+     "w": "in",
+     "start": 66.77,
+     "end": 66.97
+    },
+    {
+     "w": "a",
+     "start": 66.97,
+     "end": 67.05
+    },
+    {
+     "w": "convection",
+     "start": 67.05,
+     "end": 67.43
+    },
+    {
+     "w": "oven",
+     "start": 67.43,
+     "end": 67.73
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "scene": "energy",
+   "start": 68.24,
+   "text": "Third is radiation: energy traveling as waves of light.",
+   "words": [
+    {
+     "w": "third",
+     "start": 68.24,
+     "end": 69.14
+    },
+    {
+     "w": "is",
+     "start": 69.14,
+     "end": 69.34
+    },
+    {
+     "w": "radiation",
+     "start": 69.34,
+     "end": 69.74
+    },
+    {
+     "w": "energy",
+     "start": 70.02,
+     "end": 70.58
+    },
+    {
+     "w": "traveling",
+     "start": 70.58,
+     "end": 70.98
+    },
+    {
+     "w": "as",
+     "start": 70.98,
+     "end": 71.2
+    },
+    {
+     "w": "waves",
+     "start": 71.2,
+     "end": 71.44
+    },
+    {
+     "w": "of",
+     "start": 71.44,
+     "end": 71.58
+    },
+    {
+     "w": "light",
+     "start": 71.58,
+     "end": 71.8
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "scene": "energy",
+   "start": 72.33,
+   "text": "Glowing broiler coals radiate infrared, while a microwave uses electromagnetic waves to shake water molecules.",
+   "words": [
+    {
+     "w": "glowing",
+     "start": 72.33,
+     "end": 73.47
+    },
+    {
+     "w": "broiler",
+     "start": 73.47,
+     "end": 73.93
+    },
+    {
+     "w": "coals",
+     "start": 73.93,
+     "end": 74.31
+    },
+    {
+     "w": "radiate",
+     "start": 74.31,
+     "end": 74.77
+    },
+    {
+     "w": "infrared",
+     "start": 74.77,
+     "end": 75.23
+    },
+    {
+     "w": "while",
+     "start": 75.53,
+     "end": 75.87
+    },
+    {
+     "w": "a",
+     "start": 75.87,
+     "end": 76.01
+    },
+    {
+     "w": "microwave",
+     "start": 76.01,
+     "end": 76.45
+    },
+    {
+     "w": "uses",
+     "start": 76.45,
+     "end": 76.87
+    },
+    {
+     "w": "electromagnetic",
+     "start": 76.87,
+     "end": 77.45
+    },
+    {
+     "w": "waves",
+     "start": 77.45,
+     "end": 78.05
+    },
+    {
+     "w": "to",
+     "start": 78.05,
+     "end": 78.21
+    },
+    {
+     "w": "shake",
+     "start": 78.21,
+     "end": 78.45
+    },
+    {
+     "w": "water",
+     "start": 78.45,
+     "end": 78.75
+    },
+    {
+     "w": "molecules",
+     "start": 78.75,
+     "end": 79.17
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "scene": "proteins",
+   "start": 80.34,
+   "text": "Once that heat enters food, a molecular revolution begins.",
+   "words": [
+    {
+     "w": "once",
+     "start": 80.34,
+     "end": 81.34
+    },
+    {
+     "w": "that",
+     "start": 81.34,
+     "end": 81.52
+    },
+    {
+     "w": "heat",
+     "start": 81.52,
+     "end": 81.76
+    },
+    {
+     "w": "enters",
+     "start": 81.76,
+     "end": 82.04
+    },
+    {
+     "w": "food",
+     "start": 82.04,
+     "end": 82.4
+    },
+    {
+     "w": "a",
+     "start": 82.58,
+     "end": 82.8
+    },
+    {
+     "w": "molecular",
+     "start": 82.8,
+     "end": 83.26
+    },
+    {
+     "w": "revolution",
+     "start": 83.26,
+     "end": 83.84
+    },
+    {
+     "w": "begins",
+     "start": 83.84,
+     "end": 84.16
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "scene": "proteins",
+   "start": 84.75,
+   "text": "Raw meats and eggs are filled with tightly folded proteins.",
+   "words": [
+    {
+     "w": "raw",
+     "start": 84.75,
+     "end": 85.53
+    },
+    {
+     "w": "meats",
+     "start": 85.53,
+     "end": 85.85
+    },
+    {
+     "w": "and",
+     "start": 85.85,
+     "end": 86.03
+    },
+    {
+     "w": "eggs",
+     "start": 86.03,
+     "end": 86.29
+    },
+    {
+     "w": "are",
+     "start": 86.29,
+     "end": 86.45
+    },
+    {
+     "w": "filled",
+     "start": 86.45,
+     "end": 86.73
+    },
+    {
+     "w": "with",
+     "start": 86.73,
+     "end": 86.89
+    },
+    {
+     "w": "tightly",
+     "start": 86.89,
+     "end": 87.25
+    },
+    {
+     "w": "folded",
+     "start": 87.25,
+     "end": 87.61
+    },
+    {
+     "w": "proteins",
+     "start": 87.61,
+     "end": 88.07
+    }
+   ]
+  },
+  {
+   "i": 17,
+   "scene": "proteins",
+   "start": 88.7,
+   "text": "As the temperature climbs, heat breaks the weak bonds holding them together.",
+   "words": [
+    {
+     "w": "as",
+     "start": 88.7,
+     "end": 89.6
+    },
+    {
+     "w": "the",
+     "start": 89.6,
+     "end": 89.74
+    },
+    {
+     "w": "temperature",
+     "start": 89.74,
+     "end": 90.1
+    },
+    {
+     "w": "climbs",
+     "start": 90.1,
+     "end": 90.62
+    },
+    {
+     "w": "heat",
+     "start": 90.94,
+     "end": 91.32
+    },
+    {
+     "w": "breaks",
+     "start": 91.32,
+     "end": 91.66
+    },
+    {
+     "w": "the",
+     "start": 91.66,
+     "end": 91.8
+    },
+    {
+     "w": "weak",
+     "start": 91.8,
+     "end": 92.0
+    },
+    {
+     "w": "bonds",
+     "start": 92.0,
+     "end": 92.36
+    },
+    {
+     "w": "holding",
+     "start": 92.36,
+     "end": 92.64
+    },
+    {
+     "w": "them",
+     "start": 92.64,
+     "end": 92.82
+    },
+    {
+     "w": "together",
+     "start": 92.82,
+     "end": 93.0
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "scene": "proteins",
+   "start": 93.69,
+   "text": "The proteins denature and unfold like loose yarn, then tangle into a firm, juicy network.",
+   "words": [
+    {
+     "w": "the",
+     "start": 93.69,
+     "end": 94.45
+    },
+    {
+     "w": "proteins",
+     "start": 94.45,
+     "end": 94.95
+    },
+    {
+     "w": "denature",
+     "start": 94.95,
+     "end": 95.53
+    },
+    {
+     "w": "and",
+     "start": 95.53,
+     "end": 95.77
+    },
+    {
+     "w": "unfold",
+     "start": 95.77,
+     "end": 96.27
+    },
+    {
+     "w": "like",
+     "start": 96.27,
+     "end": 96.51
+    },
+    {
+     "w": "loose",
+     "start": 96.51,
+     "end": 96.79
+    },
+    {
+     "w": "yarn",
+     "start": 96.79,
+     "end": 97.23
+    },
+    {
+     "w": "then",
+     "start": 97.41,
+     "end": 97.77
+    },
+    {
+     "w": "tangle",
+     "start": 97.77,
+     "end": 98.29
+    },
+    {
+     "w": "into",
+     "start": 98.29,
+     "end": 98.49
+    },
+    {
+     "w": "a",
+     "start": 98.49,
+     "end": 98.67
+    },
+    {
+     "w": "firm",
+     "start": 98.67,
+     "end": 98.99
+    },
+    {
+     "w": "juicy",
+     "start": 99.13,
+     "end": 99.39
+    },
+    {
+     "w": "network",
+     "start": 99.39,
+     "end": 99.69
+    }
+   ]
+  },
+  {
+   "i": 19,
+   "scene": "proteins",
+   "start": 100.35,
+   "text": "That is why liquid egg whites turn solid white, and raw meat firms up as it cooks.",
+   "words": [
+    {
+     "w": "that",
+     "start": 100.35,
+     "end": 101.03
+    },
+    {
+     "w": "is",
+     "start": 101.03,
+     "end": 101.15
+    },
+    {
+     "w": "why",
+     "start": 101.15,
+     "end": 101.33
+    },
+    {
+     "w": "liquid",
+     "start": 101.33,
+     "end": 101.75
+    },
+    {
+     "w": "egg",
+     "start": 101.75,
+     "end": 101.99
+    },
+    {
+     "w": "whites",
+     "start": 101.99,
+     "end": 102.27
+    },
+    {
+     "w": "turn",
+     "start": 102.27,
+     "end": 102.55
+    },
+    {
+     "w": "solid",
+     "start": 102.55,
+     "end": 103.01
+    },
+    {
+     "w": "white",
+     "start": 103.01,
+     "end": 103.31
+    },
+    {
+     "w": "and",
+     "start": 103.31,
+     "end": 103.77
+    },
+    {
+     "w": "raw",
+     "start": 103.77,
+     "end": 104.01
+    },
+    {
+     "w": "meat",
+     "start": 104.01,
+     "end": 104.27
+    },
+    {
+     "w": "firms",
+     "start": 104.27,
+     "end": 104.55
+    },
+    {
+     "w": "up",
+     "start": 104.55,
+     "end": 104.75
+    },
+    {
+     "w": "as",
+     "start": 104.75,
+     "end": 104.97
+    },
+    {
+     "w": "it",
+     "start": 104.97,
+     "end": 105.07
+    },
+    {
+     "w": "cooks",
+     "start": 105.07,
+     "end": 105.37
+    }
+   ]
+  },
+  {
+   "i": 20,
+   "scene": "starches",
+   "start": 106.51,
+   "text": "Vegetables and grains undergo their own dramatic transformation.",
+   "words": [
+    {
+     "w": "vegetables",
+     "start": 106.51,
+     "end": 107.55
+    },
+    {
+     "w": "and",
+     "start": 107.55,
+     "end": 107.69
+    },
+    {
+     "w": "grains",
+     "start": 107.69,
+     "end": 108.01
+    },
+    {
+     "w": "undergo",
+     "start": 108.01,
+     "end": 108.43
+    },
+    {
+     "w": "their",
+     "start": 108.43,
+     "end": 108.65
+    },
+    {
+     "w": "own",
+     "start": 108.65,
+     "end": 108.91
+    },
+    {
+     "w": "dramatic",
+     "start": 108.91,
+     "end": 109.29
+    },
+    {
+     "w": "transformation",
+     "start": 109.29,
+     "end": 109.71
+    }
+   ]
+  },
+  {
+   "i": 21,
+   "scene": "starches",
+   "start": 110.44,
+   "text": "Raw potatoes, beans, and rice are crammed with tight, rock-hard starch granules.",
+   "words": [
+    {
+     "w": "raw",
+     "start": 110.44,
+     "end": 111.34
+    },
+    {
+     "w": "potatoes",
+     "start": 111.34,
+     "end": 111.76
+    },
+    {
+     "w": "beans",
+     "start": 111.98,
+     "end": 112.22
+    },
+    {
+     "w": "and",
+     "start": 112.38,
+     "end": 112.44
+    },
+    {
+     "w": "rice",
+     "start": 112.44,
+     "end": 112.74
+    },
+    {
+     "w": "are",
+     "start": 112.74,
+     "end": 112.96
+    },
+    {
+     "w": "crammed",
+     "start": 112.96,
+     "end": 113.3
+    },
+    {
+     "w": "with",
+     "start": 113.3,
+     "end": 113.44
+    },
+    {
+     "w": "tight",
+     "start": 113.44,
+     "end": 113.78
+    },
+    {
+     "w": "rock",
+     "start": 113.96,
+     "end": 114.32
+    },
+    {
+     "w": "hard",
+     "start": 114.32,
+     "end": 114.54
+    },
+    {
+     "w": "starch",
+     "start": 114.54,
+     "end": 114.9
+    },
+    {
+     "w": "granules",
+     "start": 114.9,
+     "end": 115.48
+    }
+   ]
+  },
+  {
+   "i": 22,
+   "scene": "starches",
+   "start": 115.99,
+   "text": "In cold water, starch granules sit completely unchanged.",
+   "words": [
+    {
+     "w": "in",
+     "start": 115.99,
+     "end": 116.61
+    },
+    {
+     "w": "cold",
+     "start": 116.61,
+     "end": 116.87
+    },
+    {
+     "w": "water",
+     "start": 116.87,
+     "end": 117.23
+    },
+    {
+     "w": "starch",
+     "start": 117.57,
+     "end": 117.99
+    },
+    {
+     "w": "granules",
+     "start": 117.99,
+     "end": 118.47
+    },
+    {
+     "w": "sit",
+     "start": 118.47,
+     "end": 118.71
+    },
+    {
+     "w": "completely",
+     "start": 118.71,
+     "end": 119.23
+    },
+    {
+     "w": "unchanged",
+     "start": 119.23,
+     "end": 119.63
+    }
+   ]
+  },
+  {
+   "i": 23,
+   "scene": "starches",
+   "start": 120.34,
+   "text": "But when hot water penetrates, the starches swell like thousands of tiny sponges.",
+   "words": [
+    {
+     "w": "but",
+     "start": 120.34,
+     "end": 121.06
+    },
+    {
+     "w": "when",
+     "start": 121.06,
+     "end": 121.22
+    },
+    {
+     "w": "hot",
+     "start": 121.22,
+     "end": 121.46
+    },
+    {
+     "w": "water",
+     "start": 121.46,
+     "end": 121.74
+    },
+    {
+     "w": "penetrates",
+     "start": 121.74,
+     "end": 122.3
+    },
+    {
+     "w": "the",
+     "start": 122.72,
+     "end": 122.84
+    },
+    {
+     "w": "starches",
+     "start": 122.84,
+     "end": 123.24
+    },
+    {
+     "w": "swell",
+     "start": 123.24,
+     "end": 123.54
+    },
+    {
+     "w": "like",
+     "start": 123.54,
+     "end": 123.74
+    },
+    {
+     "w": "thousands",
+     "start": 123.74,
+     "end": 124.18
+    },
+    {
+     "w": "of",
+     "start": 124.18,
+     "end": 124.42
+    },
+    {
+     "w": "tiny",
+     "start": 124.42,
+     "end": 124.66
+    },
+    {
+     "w": "sponges",
+     "start": 124.66,
+     "end": 125.2
+    }
+   ]
+  },
+  {
+   "i": 24,
+   "scene": "starches",
+   "start": 125.63,
+   "text": "They burst open in a process called gelatinization, turning tough plants soft and easily digestible.",
+   "words": [
+    {
+     "w": "they",
+     "start": 125.63,
+     "end": 126.29
+    },
+    {
+     "w": "burst",
+     "start": 126.29,
+     "end": 126.65
+    },
+    {
+     "w": "open",
+     "start": 126.65,
+     "end": 126.97
+    },
+    {
+     "w": "in",
+     "start": 126.97,
+     "end": 127.13
+    },
+    {
+     "w": "a",
+     "start": 127.13,
+     "end": 127.23
+    },
+    {
+     "w": "process",
+     "start": 127.23,
+     "end": 127.61
+    },
+    {
+     "w": "called",
+     "start": 127.61,
+     "end": 127.91
+    },
+    {
+     "w": "gelatinization",
+     "start": 127.91,
+     "end": 128.75
+    },
+    {
+     "w": "turning",
+     "start": 129.03,
+     "end": 129.41
+    },
+    {
+     "w": "tough",
+     "start": 129.41,
+     "end": 129.73
+    },
+    {
+     "w": "plants",
+     "start": 129.73,
+     "end": 130.09
+    },
+    {
+     "w": "soft",
+     "start": 130.09,
+     "end": 130.45
+    },
+    {
+     "w": "and",
+     "start": 130.45,
+     "end": 130.67
+    },
+    {
+     "w": "easily",
+     "start": 130.67,
+     "end": 130.97
+    },
+    {
+     "w": "digestible",
+     "start": 130.97,
+     "end": 131.59
+    }
+   ]
+  },
+  {
+   "i": 25,
+   "scene": "flavors",
+   "start": 132.61,
+   "text": "Then comes the most delicious part of all: browning.",
+   "words": [
+    {
+     "w": "then",
+     "start": 132.61,
+     "end": 133.21
+    },
+    {
+     "w": "comes",
+     "start": 133.21,
+     "end": 133.53
+    },
+    {
+     "w": "the",
+     "start": 133.53,
+     "end": 133.65
+    },
+    {
+     "w": "most",
+     "start": 133.65,
+     "end": 133.87
+    },
+    {
+     "w": "delicious",
+     "start": 133.87,
+     "end": 134.25
+    },
+    {
+     "w": "part",
+     "start": 134.25,
+     "end": 134.59
+    },
+    {
+     "w": "of",
+     "start": 134.59,
+     "end": 134.71
+    },
+    {
+     "w": "all",
+     "start": 134.71,
+     "end": 134.97
+    },
+    {
+     "w": "browning",
+     "start": 135.27,
+     "end": 135.75
+    }
+   ]
+  },
+  {
+   "i": 26,
+   "scene": "flavors",
+   "start": 136.22,
+   "text": "When surface temperatures pass two hundred and eighty degrees Fahrenheit, the Maillard reaction ignites.",
+   "words": [
+    {
+     "w": "when",
+     "start": 136.22,
+     "end": 136.9
+    },
+    {
+     "w": "surface",
+     "start": 136.9,
+     "end": 137.24
+    },
+    {
+     "w": "temperatures",
+     "start": 137.24,
+     "end": 137.68
+    },
+    {
+     "w": "pass",
+     "start": 137.68,
+     "end": 138.06
+    },
+    {
+     "w": "280",
+     "start": 138.06,
+     "end": 138.84
+    },
+    {
+     "w": "degrees",
+     "start": 138.84,
+     "end": 139.24
+    },
+    {
+     "w": "fahrenheit",
+     "start": 139.24,
+     "end": 139.72
+    },
+    {
+     "w": "the",
+     "start": 140.22,
+     "end": 140.3
+    },
+    {
+     "w": "maillard",
+     "start": 140.3,
+     "end": 140.66
+    },
+    {
+     "w": "reaction",
+     "start": 140.66,
+     "end": 141.08
+    },
+    {
+     "w": "ignites",
+     "start": 141.08,
+     "end": 141.8
+    }
+   ]
+  },
+  {
+   "i": 27,
+   "scene": "flavors",
+   "start": 142.33,
+   "text": "Amino acids from proteins crash into simple sugars.",
+   "words": [
+    {
+     "w": "amino",
+     "start": 142.33,
+     "end": 143.15
+    },
+    {
+     "w": "acids",
+     "start": 143.15,
+     "end": 143.59
+    },
+    {
+     "w": "from",
+     "start": 143.59,
+     "end": 143.77
+    },
+    {
+     "w": "proteins",
+     "start": 143.77,
+     "end": 144.29
+    },
+    {
+     "w": "crash",
+     "start": 144.29,
+     "end": 144.93
+    },
+    {
+     "w": "into",
+     "start": 144.93,
+     "end": 145.15
+    },
+    {
+     "w": "simple",
+     "start": 145.15,
+     "end": 145.53
+    },
+    {
+     "w": "sugars",
+     "start": 145.53,
+     "end": 145.87
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "scene": "flavors",
+   "start": 146.42,
+   "text": "They fracture and recombine into hundreds of brand new flavor compounds.",
+   "words": [
+    {
+     "w": "they",
+     "start": 146.42,
+     "end": 146.98
+    },
+    {
+     "w": "fracture",
+     "start": 146.98,
+     "end": 147.42
+    },
+    {
+     "w": "and",
+     "start": 147.42,
+     "end": 147.64
+    },
+    {
+     "w": "recombine",
+     "start": 147.64,
+     "end": 148.22
+    },
+    {
+     "w": "into",
+     "start": 148.22,
+     "end": 148.44
+    },
+    {
+     "w": "hundreds",
+     "start": 148.44,
+     "end": 148.84
+    },
+    {
+     "w": "of",
+     "start": 148.84,
+     "end": 149.04
+    },
+    {
+     "w": "brand",
+     "start": 149.04,
+     "end": 149.3
+    },
+    {
+     "w": "new",
+     "start": 149.3,
+     "end": 149.48
+    },
+    {
+     "w": "flavor",
+     "start": 149.48,
+     "end": 149.8
+    },
+    {
+     "w": "compounds",
+     "start": 149.8,
+     "end": 150.34
+    }
+   ]
+  },
+  {
+   "i": 29,
+   "scene": "flavors",
+   "start": 151.16,
+   "text": "That single reaction creates the savory crust on bread, roasted coffee, and seared steak.",
+   "words": [
+    {
+     "w": "that",
+     "start": 151.16,
+     "end": 151.78
+    },
+    {
+     "w": "single",
+     "start": 151.78,
+     "end": 152.1
+    },
+    {
+     "w": "reaction",
+     "start": 152.1,
+     "end": 152.5
+    },
+    {
+     "w": "creates",
+     "start": 152.5,
+     "end": 152.94
+    },
+    {
+     "w": "the",
+     "start": 152.94,
+     "end": 153.12
+    },
+    {
+     "w": "savory",
+     "start": 153.12,
+     "end": 153.5
+    },
+    {
+     "w": "crust",
+     "start": 153.5,
+     "end": 153.86
+    },
+    {
+     "w": "on",
+     "start": 153.86,
+     "end": 154.1
+    },
+    {
+     "w": "bread",
+     "start": 154.1,
+     "end": 154.42
+    },
+    {
+     "w": "roasted",
+     "start": 154.58,
+     "end": 155.12
+    },
+    {
+     "w": "coffee",
+     "start": 155.12,
+     "end": 155.56
+    },
+    {
+     "w": "and",
+     "start": 155.68,
+     "end": 155.96
+    },
+    {
+     "w": "seared",
+     "start": 155.96,
+     "end": 156.32
+    },
+    {
+     "w": "steak",
+     "start": 156.32,
+     "end": 156.6
+    }
+   ]
+  },
+  {
+   "i": 30,
+   "scene": "flavors",
+   "start": 157.18,
+   "text": "Pure sugars melt and caramelize, adding rich nuttiness and deep golden color.",
+   "words": [
+    {
+     "w": "pure",
+     "start": 157.18,
+     "end": 158.2
+    },
+    {
+     "w": "sugars",
+     "start": 158.2,
+     "end": 158.58
+    },
+    {
+     "w": "melt",
+     "start": 158.58,
+     "end": 158.94
+    },
+    {
+     "w": "and",
+     "start": 158.94,
+     "end": 159.16
+    },
+    {
+     "w": "caramelize",
+     "start": 159.16,
+     "end": 159.8
+    },
+    {
+     "w": "adding",
+     "start": 159.94,
+     "end": 160.36
+    },
+    {
+     "w": "rich",
+     "start": 160.36,
+     "end": 160.7
+    },
+    {
+     "w": "nuttiness",
+     "start": 160.7,
+     "end": 161.22
+    },
+    {
+     "w": "and",
+     "start": 161.22,
+     "end": 161.46
+    },
+    {
+     "w": "deep",
+     "start": 161.46,
+     "end": 161.74
+    },
+    {
+     "w": "golden",
+     "start": 161.74,
+     "end": 162.06
+    },
+    {
+     "w": "color",
+     "start": 162.06,
+     "end": 162.34
+    }
+   ]
+  },
+  {
+   "i": 31,
+   "scene": "safety",
+   "start": 163.34,
+   "text": "Cooking also acts as our first line of biological defense.",
+   "words": [
+    {
+     "w": "cooking",
+     "start": 163.34,
+     "end": 164.34
+    },
+    {
+     "w": "also",
+     "start": 164.34,
+     "end": 164.84
+    },
+    {
+     "w": "acts",
+     "start": 164.84,
+     "end": 165.44
+    },
+    {
+     "w": "as",
+     "start": 165.44,
+     "end": 165.76
+    },
+    {
+     "w": "our",
+     "start": 165.76,
+     "end": 165.96
+    },
+    {
+     "w": "first",
+     "start": 165.96,
+     "end": 166.36
+    },
+    {
+     "w": "line",
+     "start": 166.36,
+     "end": 166.74
+    },
+    {
+     "w": "of",
+     "start": 166.74,
+     "end": 166.98
+    },
+    {
+     "w": "biological",
+     "start": 166.98,
+     "end": 167.58
+    },
+    {
+     "w": "defense",
+     "start": 167.58,
+     "end": 168.08
+    }
+   ]
+  },
+  {
+   "i": 32,
+   "scene": "safety",
+   "start": 169.17,
+   "text": "High temperatures destroy harmful bacteria like Salmonella and E. coli in raw food.",
+   "words": [
+    {
+     "w": "high",
+     "start": 169.17,
+     "end": 169.87
+    },
+    {
+     "w": "temperatures",
+     "start": 169.87,
+     "end": 170.45
+    },
+    {
+     "w": "destroy",
+     "start": 170.45,
+     "end": 171.19
+    },
+    {
+     "w": "harmful",
+     "start": 171.19,
+     "end": 171.91
+    },
+    {
+     "w": "bacteria",
+     "start": 171.91,
+     "end": 172.65
+    },
+    {
+     "w": "like",
+     "start": 172.65,
+     "end": 173.13
+    },
+    {
+     "w": "salmonella",
+     "start": 173.13,
+     "end": 174.01
+    },
+    {
+     "w": "and",
+     "start": 174.01,
+     "end": 174.35
+    },
+    {
+     "w": "e",
+     "start": 174.35,
+     "end": 174.61
+    },
+    {
+     "w": "coli",
+     "start": 174.73,
+     "end": 175.27
+    },
+    {
+     "w": "in",
+     "start": 175.27,
+     "end": 175.49
+    },
+    {
+     "w": "raw",
+     "start": 175.49,
+     "end": 175.75
+    },
+    {
+     "w": "food",
+     "start": 175.75,
+     "end": 176.21
+    }
+   ]
+  },
+  {
+   "i": 33,
+   "scene": "safety",
+   "start": 176.96,
+   "text": "Heat also deactivates enzymes that cause fresh foods to rot and spoil.",
+   "words": [
+    {
+     "w": "heat",
+     "start": 176.96,
+     "end": 177.68
+    },
+    {
+     "w": "also",
+     "start": 177.68,
+     "end": 178.22
+    },
+    {
+     "w": "deactivates",
+     "start": 178.22,
+     "end": 179.12
+    },
+    {
+     "w": "enzymes",
+     "start": 179.12,
+     "end": 179.58
+    },
+    {
+     "w": "that",
+     "start": 179.58,
+     "end": 180.04
+    },
+    {
+     "w": "cause",
+     "start": 180.04,
+     "end": 180.36
+    },
+    {
+     "w": "fresh",
+     "start": 180.36,
+     "end": 180.66
+    },
+    {
+     "w": "foods",
+     "start": 180.66,
+     "end": 181.12
+    },
+    {
+     "w": "to",
+     "start": 181.12,
+     "end": 181.36
+    },
+    {
+     "w": "rot",
+     "start": 181.36,
+     "end": 181.66
+    },
+    {
+     "w": "and",
+     "start": 181.66,
+     "end": 181.92
+    },
+    {
+     "w": "spoil",
+     "start": 181.92,
+     "end": 182.38
+    }
+   ]
+  },
+  {
+   "i": 34,
+   "scene": "safety",
+   "start": 183.22,
+   "text": "And it breaks down dangerous plant toxins, like the lectins found in raw kidney beans.",
+   "words": [
+    {
+     "w": "and",
+     "start": 183.22,
+     "end": 183.82
+    },
+    {
+     "w": "it",
+     "start": 183.82,
+     "end": 183.98
+    },
+    {
+     "w": "breaks",
+     "start": 183.98,
+     "end": 184.36
+    },
+    {
+     "w": "down",
+     "start": 184.36,
+     "end": 184.78
+    },
+    {
+     "w": "dangerous",
+     "start": 184.78,
+     "end": 185.54
+    },
+    {
+     "w": "plant",
+     "start": 185.54,
+     "end": 186.1
+    },
+    {
+     "w": "toxins",
+     "start": 186.1,
+     "end": 186.7
+    },
+    {
+     "w": "like",
+     "start": 186.7,
+     "end": 187.48
+    },
+    {
+     "w": "the",
+     "start": 187.48,
+     "end": 187.7
+    },
+    {
+     "w": "lectins",
+     "start": 187.7,
+     "end": 188.24
+    },
+    {
+     "w": "found",
+     "start": 188.24,
+     "end": 188.66
+    },
+    {
+     "w": "in",
+     "start": 188.66,
+     "end": 188.9
+    },
+    {
+     "w": "raw",
+     "start": 188.9,
+     "end": 189.2
+    },
+    {
+     "w": "kidney",
+     "start": 189.2,
+     "end": 189.58
+    },
+    {
+     "w": "beans",
+     "start": 189.58,
+     "end": 190.12
+    }
+   ]
+  },
+  {
+   "i": 35,
+   "scene": "safety",
+   "start": 190.94,
+   "text": "Without heat, many staples we eat every day would actually make us sick.",
+   "words": [
+    {
+     "w": "without",
+     "start": 190.94,
+     "end": 191.74
+    },
+    {
+     "w": "heat",
+     "start": 191.74,
+     "end": 192.18
+    },
+    {
+     "w": "many",
+     "start": 192.7,
+     "end": 192.9
+    },
+    {
+     "w": "staples",
+     "start": 192.9,
+     "end": 193.46
+    },
+    {
+     "w": "we",
+     "start": 193.46,
+     "end": 193.74
+    },
+    {
+     "w": "eat",
+     "start": 193.74,
+     "end": 194.06
+    },
+    {
+     "w": "every",
+     "start": 194.06,
+     "end": 194.42
+    },
+    {
+     "w": "day",
+     "start": 194.42,
+     "end": 194.72
+    },
+    {
+     "w": "would",
+     "start": 194.72,
+     "end": 195.02
+    },
+    {
+     "w": "actually",
+     "start": 195.02,
+     "end": 195.5
+    },
+    {
+     "w": "make",
+     "start": 195.5,
+     "end": 195.8
+    },
+    {
+     "w": "us",
+     "start": 195.8,
+     "end": 196.0
+    },
+    {
+     "w": "sick",
+     "start": 196.0,
+     "end": 196.4
+    }
+   ]
+  },
+  {
+   "i": 36,
+   "scene": "evolution",
+   "start": 197.79,
+   "text": "In fact, cooking may be the single reason modern humans exist at all.",
+   "words": [
+    {
+     "w": "in",
+     "start": 197.79,
+     "end": 198.47
+    },
+    {
+     "w": "fact",
+     "start": 198.47,
+     "end": 198.71
+    },
+    {
+     "w": "cooking",
+     "start": 199.07,
+     "end": 199.39
+    },
+    {
+     "w": "may",
+     "start": 199.39,
+     "end": 199.55
+    },
+    {
+     "w": "be",
+     "start": 199.55,
+     "end": 199.67
+    },
+    {
+     "w": "the",
+     "start": 199.67,
+     "end": 199.81
+    },
+    {
+     "w": "single",
+     "start": 199.81,
+     "end": 200.13
+    },
+    {
+     "w": "reason",
+     "start": 200.13,
+     "end": 200.47
+    },
+    {
+     "w": "modern",
+     "start": 200.47,
+     "end": 200.79
+    },
+    {
+     "w": "humans",
+     "start": 200.79,
+     "end": 201.15
+    },
+    {
+     "w": "exist",
+     "start": 201.15,
+     "end": 201.53
+    },
+    {
+     "w": "at",
+     "start": 201.53,
+     "end": 201.67
+    },
+    {
+     "w": "all",
+     "start": 201.67,
+     "end": 201.89
+    }
+   ]
+  },
+  {
+   "i": 37,
+   "scene": "evolution",
+   "start": 202.38,
+   "text": "Harvard anthropologist Richard Wrangham discovered that cooking effectively pre-digests our food.",
+   "words": [
+    {
+     "w": "harvard",
+     "start": 202.38,
+     "end": 203.3
+    },
+    {
+     "w": "anthropologist",
+     "start": 203.3,
+     "end": 204.12
+    },
+    {
+     "w": "richard",
+     "start": 204.12,
+     "end": 204.4
+    },
+    {
+     "w": "wrangham",
+     "start": 204.4,
+     "end": 204.88
+    },
+    {
+     "w": "discovered",
+     "start": 204.88,
+     "end": 205.6
+    },
+    {
+     "w": "that",
+     "start": 205.6,
+     "end": 205.78
+    },
+    {
+     "w": "cooking",
+     "start": 205.78,
+     "end": 206.08
+    },
+    {
+     "w": "effectively",
+     "start": 206.08,
+     "end": 206.72
+    },
+    {
+     "w": "pre",
+     "start": 206.72,
+     "end": 207.14
+    },
+    {
+     "w": "digests",
+     "start": 207.14,
+     "end": 207.58
+    },
+    {
+     "w": "our",
+     "start": 207.58,
+     "end": 207.76
+    },
+    {
+     "w": "food",
+     "start": 207.76,
+     "end": 207.98
+    }
+   ]
+  },
+  {
+   "i": 38,
+   "scene": "evolution",
+   "start": 208.48,
+   "text": "Instead of chewing raw food for six hours a day, our ancestors absorbed calories in minutes.",
+   "words": [
+    {
+     "w": "instead",
+     "start": 208.48,
+     "end": 209.4
+    },
+    {
+     "w": "of",
+     "start": 209.4,
+     "end": 209.56
+    },
+    {
+     "w": "chewing",
+     "start": 209.56,
+     "end": 209.8
+    },
+    {
+     "w": "raw",
+     "start": 209.8,
+     "end": 210.1
+    },
+    {
+     "w": "food",
+     "start": 210.1,
+     "end": 210.38
+    },
+    {
+     "w": "for",
+     "start": 210.38,
+     "end": 210.54
+    },
+    {
+     "w": "six",
+     "start": 210.54,
+     "end": 210.8
+    },
+    {
+     "w": "hours",
+     "start": 210.8,
+     "end": 211.04
+    },
+    {
+     "w": "a",
+     "start": 211.04,
+     "end": 211.22
+    },
+    {
+     "w": "day",
+     "start": 211.22,
+     "end": 211.4
+    },
+    {
+     "w": "our",
+     "start": 211.82,
+     "end": 211.94
+    },
+    {
+     "w": "ancestors",
+     "start": 211.94,
+     "end": 212.42
+    },
+    {
+     "w": "absorbed",
+     "start": 212.42,
+     "end": 212.88
+    },
+    {
+     "w": "calories",
+     "start": 212.88,
+     "end": 213.34
+    },
+    {
+     "w": "in",
+     "start": 213.34,
+     "end": 213.54
+    },
+    {
+     "w": "minutes",
+     "start": 213.54,
+     "end": 213.8
+    }
+   ]
+  },
+  {
+   "i": 39,
+   "scene": "evolution",
+   "start": 214.33,
+   "text": "That massive surge of surplus energy allowed early humans to develop smaller guts and much larger brains.",
+   "words": [
+    {
+     "w": "that",
+     "start": 214.33,
+     "end": 215.13
+    },
+    {
+     "w": "massive",
+     "start": 215.13,
+     "end": 215.59
+    },
+    {
+     "w": "surge",
+     "start": 215.59,
+     "end": 215.95
+    },
+    {
+     "w": "of",
+     "start": 215.95,
+     "end": 216.11
+    },
+    {
+     "w": "surplus",
+     "start": 216.11,
+     "end": 216.45
+    },
+    {
+     "w": "energy",
+     "start": 216.45,
+     "end": 216.89
+    },
+    {
+     "w": "allowed",
+     "start": 216.89,
+     "end": 217.47
+    },
+    {
+     "w": "early",
+     "start": 217.47,
+     "end": 217.85
+    },
+    {
+     "w": "humans",
+     "start": 217.85,
+     "end": 218.21
+    },
+    {
+     "w": "to",
+     "start": 218.21,
+     "end": 218.41
+    },
+    {
+     "w": "develop",
+     "start": 218.41,
+     "end": 218.67
+    },
+    {
+     "w": "smaller",
+     "start": 218.67,
+     "end": 219.11
+    },
+    {
+     "w": "guts",
+     "start": 219.11,
+     "end": 219.47
+    },
+    {
+     "w": "and",
+     "start": 219.47,
+     "end": 219.93
+    },
+    {
+     "w": "much",
+     "start": 219.93,
+     "end": 220.15
+    },
+    {
+     "w": "larger",
+     "start": 220.15,
+     "end": 220.49
+    },
+    {
+     "w": "brains",
+     "start": 220.49,
+     "end": 220.85
+    }
+   ]
+  },
+  {
+   "i": 40,
+   "scene": "evolution",
+   "start": 221.46,
+   "text": "Harnessing fire did not just feed our bodies\u2014it literally built our minds.",
+   "words": [
+    {
+     "w": "harnessing",
+     "start": 222.24,
+     "end": 222.64
+    },
+    {
+     "w": "fire",
+     "start": 222.64,
+     "end": 222.84
+    },
+    {
+     "w": "did",
+     "start": 222.84,
+     "end": 223.02
+    },
+    {
+     "w": "not",
+     "start": 223.02,
+     "end": 223.18
+    },
+    {
+     "w": "just",
+     "start": 223.18,
+     "end": 223.38
+    },
+    {
+     "w": "feed",
+     "start": 223.38,
+     "end": 223.6
+    },
+    {
+     "w": "our",
+     "start": 223.6,
+     "end": 223.72
+    },
+    {
+     "w": "bodies",
+     "start": 223.72,
+     "end": 224.04
+    },
+    {
+     "w": "it",
+     "start": 224.38,
+     "end": 224.58
+    },
+    {
+     "w": "literally",
+     "start": 224.58,
+     "end": 224.9
+    },
+    {
+     "w": "built",
+     "start": 224.9,
+     "end": 225.22
+    },
+    {
+     "w": "our",
+     "start": 225.22,
+     "end": 225.36
+    },
+    {
+     "w": "minds",
+     "start": 225.36,
+     "end": 225.6
+    }
+   ]
+  },
+  {
+   "i": 41,
+   "scene": "tips",
+   "start": 226.74,
+   "text": "So here is your kitchen takeaway.",
+   "words": [
+    {
+     "w": "so",
+     "start": 226.74,
+     "end": 227.34
+    },
+    {
+     "w": "here's",
+     "start": 227.34,
+     "end": 227.68
+    },
+    {
+     "w": "your",
+     "start": 227.68,
+     "end": 227.8
+    },
+    {
+     "w": "kitchen",
+     "start": 227.8,
+     "end": 228.1
+    },
+    {
+     "w": "takeaway",
+     "start": 228.1,
+     "end": 228.34
+    }
+   ]
+  },
+  {
+   "i": 42,
+   "scene": "tips",
+   "start": 229.09,
+   "text": "Match your heat transfer method to the food: conduction for a crisp sear, convection for gentle even cooking.",
+   "words": [
+    {
+     "w": "match",
+     "start": 229.09,
+     "end": 229.71
+    },
+    {
+     "w": "your",
+     "start": 229.71,
+     "end": 229.91
+    },
+    {
+     "w": "heat",
+     "start": 229.91,
+     "end": 230.17
+    },
+    {
+     "w": "transfer",
+     "start": 230.17,
+     "end": 230.61
+    },
+    {
+     "w": "method",
+     "start": 230.61,
+     "end": 231.01
+    },
+    {
+     "w": "to",
+     "start": 231.01,
+     "end": 231.23
+    },
+    {
+     "w": "the",
+     "start": 231.23,
+     "end": 231.33
+    },
+    {
+     "w": "food",
+     "start": 231.33,
+     "end": 231.67
+    },
+    {
+     "w": "conduction",
+     "start": 232.13,
+     "end": 232.69
+    },
+    {
+     "w": "for",
+     "start": 232.69,
+     "end": 232.85
+    },
+    {
+     "w": "a",
+     "start": 232.85,
+     "end": 233.01
+    },
+    {
+     "w": "crisp",
+     "start": 233.01,
+     "end": 233.29
+    },
+    {
+     "w": "sear",
+     "start": 233.29,
+     "end": 233.79
+    },
+    {
+     "w": "convection",
+     "start": 233.91,
+     "end": 234.35
+    },
+    {
+     "w": "for",
+     "start": 234.35,
+     "end": 234.71
+    },
+    {
+     "w": "gentle",
+     "start": 234.71,
+     "end": 235.09
+    },
+    {
+     "w": "even",
+     "start": 235.09,
+     "end": 235.35
+    },
+    {
+     "w": "cooking",
+     "start": 235.35,
+     "end": 235.71
+    }
+   ]
+  },
+  {
+   "i": 43,
+   "scene": "tips",
+   "start": 236.39,
+   "text": "Control internal heat: gentle temperatures keep proteins juicy, while high surface heat builds crust and aroma.",
+   "words": [
+    {
+     "w": "control",
+     "start": 236.39,
+     "end": 237.15
+    },
+    {
+     "w": "internal",
+     "start": 237.15,
+     "end": 237.61
+    },
+    {
+     "w": "heat",
+     "start": 237.61,
+     "end": 238.03
+    },
+    {
+     "w": "gentle",
+     "start": 238.25,
+     "end": 238.99
+    },
+    {
+     "w": "temperatures",
+     "start": 238.99,
+     "end": 239.53
+    },
+    {
+     "w": "keep",
+     "start": 239.53,
+     "end": 239.85
+    },
+    {
+     "w": "proteins",
+     "start": 239.85,
+     "end": 240.33
+    },
+    {
+     "w": "juicy",
+     "start": 240.33,
+     "end": 240.77
+    },
+    {
+     "w": "while",
+     "start": 241.05,
+     "end": 241.39
+    },
+    {
+     "w": "high",
+     "start": 241.39,
+     "end": 241.65
+    },
+    {
+     "w": "surface",
+     "start": 241.65,
+     "end": 242.03
+    },
+    {
+     "w": "heat",
+     "start": 242.03,
+     "end": 242.33
+    },
+    {
+     "w": "builds",
+     "start": 242.33,
+     "end": 242.71
+    },
+    {
+     "w": "crust",
+     "start": 242.71,
+     "end": 243.13
+    },
+    {
+     "w": "and",
+     "start": 243.13,
+     "end": 243.33
+    },
+    {
+     "w": "aroma",
+     "start": 243.33,
+     "end": 243.65
+    }
+   ]
+  },
+  {
+   "i": 44,
+   "scene": "tips",
+   "start": 244.17,
+   "text": "And remember that cooking is an ongoing science experiment you get to eat.",
+   "words": [
+    {
+     "w": "and",
+     "start": 244.17,
+     "end": 244.77
+    },
+    {
+     "w": "remember",
+     "start": 244.77,
+     "end": 245.09
+    },
+    {
+     "w": "that",
+     "start": 245.09,
+     "end": 245.43
+    },
+    {
+     "w": "cooking",
+     "start": 245.43,
+     "end": 245.73
+    },
+    {
+     "w": "is",
+     "start": 245.73,
+     "end": 246.01
+    },
+    {
+     "w": "an",
+     "start": 246.01,
+     "end": 246.13
+    },
+    {
+     "w": "ongoing",
+     "start": 246.13,
+     "end": 246.57
+    },
+    {
+     "w": "science",
+     "start": 246.57,
+     "end": 247.07
+    },
+    {
+     "w": "experiment",
+     "start": 247.07,
+     "end": 247.61
+    },
+    {
+     "w": "you",
+     "start": 247.61,
+     "end": 247.99
+    },
+    {
+     "w": "get",
+     "start": 247.99,
+     "end": 248.15
+    },
+    {
+     "w": "to",
+     "start": 248.15,
+     "end": 248.29
+    },
+    {
+     "w": "eat",
+     "start": 248.29,
+     "end": 248.47
+    }
+   ]
+  },
+  {
+   "i": 45,
+   "scene": "answer",
+   "start": 249.47,
+   "text": "Cooking is using heat energy to transform physics and chemistry into flavor, safety, and human nourishment.",
+   "words": [
+    {
+     "w": "cooking",
+     "start": 249.47,
+     "end": 250.05
+    },
+    {
+     "w": "is",
+     "start": 250.05,
+     "end": 250.27
+    },
+    {
+     "w": "using",
+     "start": 250.27,
+     "end": 250.55
+    },
+    {
+     "w": "heat",
+     "start": 250.55,
+     "end": 250.81
+    },
+    {
+     "w": "energy",
+     "start": 250.81,
+     "end": 251.15
+    },
+    {
+     "w": "to",
+     "start": 251.15,
+     "end": 251.37
+    },
+    {
+     "w": "transform",
+     "start": 251.37,
+     "end": 251.77
+    },
+    {
+     "w": "physics",
+     "start": 251.77,
+     "end": 252.19
+    },
+    {
+     "w": "and",
+     "start": 252.19,
+     "end": 252.41
+    },
+    {
+     "w": "chemistry",
+     "start": 252.41,
+     "end": 252.81
+    },
+    {
+     "w": "into",
+     "start": 252.81,
+     "end": 253.17
+    },
+    {
+     "w": "flavor",
+     "start": 253.17,
+     "end": 253.51
+    },
+    {
+     "w": "safety",
+     "start": 253.77,
+     "end": 254.19
+    },
+    {
+     "w": "and",
+     "start": 254.45,
+     "end": 254.59
+    },
+    {
+     "w": "human",
+     "start": 254.59,
+     "end": 254.89
+    },
+    {
+     "w": "nourishment",
+     "start": 254.89,
+     "end": 255.27
+    }
+   ]
+  },
+  {
+   "i": 46,
+   "scene": "outro",
+   "start": 256.45,
+   "text": "So fire really was humanity's first superpower!",
+   "words": [
+    {
+     "w": "so",
+     "start": 256.45,
+     "end": 256.99
+    },
+    {
+     "w": "fire",
+     "start": 256.99,
+     "end": 257.33
+    },
+    {
+     "w": "really",
+     "start": 257.33,
+     "end": 257.71
+    },
+    {
+     "w": "was",
+     "start": 257.71,
+     "end": 258.03
+    },
+    {
+     "w": "humanity's",
+     "start": 258.03,
+     "end": 258.65
+    },
+    {
+     "w": "first",
+     "start": 258.65,
+     "end": 258.85
+    },
+    {
+     "w": "superpower",
+     "start": 258.85,
+     "end": 259.29
+    }
+   ]
+  },
+  {
+   "i": 47,
+   "scene": "outro",
+   "start": 260.06,
+   "text": "Then why is cookware made from so many different metals?",
+   "words": [
+    {
+     "w": "then",
+     "start": 260.06,
+     "end": 260.64
+    },
+    {
+     "w": "why",
+     "start": 260.64,
+     "end": 260.92
+    },
+    {
+     "w": "is",
+     "start": 260.92,
+     "end": 261.16
+    },
+    {
+     "w": "cookware",
+     "start": 261.16,
+     "end": 261.56
+    },
+    {
+     "w": "made",
+     "start": 261.56,
+     "end": 261.78
+    },
+    {
+     "w": "from",
+     "start": 261.78,
+     "end": 261.96
+    },
+    {
+     "w": "so",
+     "start": 261.96,
+     "end": 262.24
+    },
+    {
+     "w": "many",
+     "start": 262.24,
+     "end": 262.44
+    },
+    {
+     "w": "different",
+     "start": 262.44,
+     "end": 262.72
+    },
+    {
+     "w": "metals",
+     "start": 262.72,
+     "end": 263.06
+    }
+   ]
+  }
+ ]
+}
