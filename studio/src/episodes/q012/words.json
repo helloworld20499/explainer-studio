@@ -1,0 +1,970 @@
+{
+ "lines": [
+  {
+   "i": 0,
+   "scene": "hook",
+   "start": 0.6,
+   "text": "Dad, there's wine in the stew! Am I allowed to eat it?",
+   "words": [
+    {
+     "w": "dad",
+     "start": 0.6,
+     "end": 1.06
+    },
+    {
+     "w": "there's",
+     "start": 1.4,
+     "end": 1.78
+    },
+    {
+     "w": "wine",
+     "start": 1.78,
+     "end": 2.1
+    },
+    {
+     "w": "in",
+     "start": 2.1,
+     "end": 2.24
+    },
+    {
+     "w": "the",
+     "start": 2.24,
+     "end": 2.36
+    },
+    {
+     "w": "stew",
+     "start": 2.36,
+     "end": 2.66
+    },
+    {
+     "w": "am",
+     "start": 3.0,
+     "end": 3.52
+    },
+    {
+     "w": "i",
+     "start": 3.52,
+     "end": 3.66
+    },
+    {
+     "w": "allowed",
+     "start": 3.66,
+     "end": 3.92
+    },
+    {
+     "w": "to",
+     "start": 3.92,
+     "end": 4.08
+    },
+    {
+     "w": "eat",
+     "start": 4.08,
+     "end": 4.28
+    },
+    {
+     "w": "it",
+     "start": 4.28,
+     "end": 4.4
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "scene": "hook",
+   "start": 4.87,
+   "text": "Sure! When you cook it, all the alcohol burns off.",
+   "words": [
+    {
+     "w": "sure",
+     "start": 4.87,
+     "end": 5.57
+    },
+    {
+     "w": "when",
+     "start": 5.89,
+     "end": 6.25
+    },
+    {
+     "w": "you",
+     "start": 6.25,
+     "end": 6.33
+    },
+    {
+     "w": "cook",
+     "start": 6.33,
+     "end": 6.59
+    },
+    {
+     "w": "it",
+     "start": 6.59,
+     "end": 6.71
+    },
+    {
+     "w": "all",
+     "start": 7.05,
+     "end": 7.15
+    },
+    {
+     "w": "the",
+     "start": 7.15,
+     "end": 7.29
+    },
+    {
+     "w": "alcohol",
+     "start": 7.29,
+     "end": 7.73
+    },
+    {
+     "w": "burns",
+     "start": 7.73,
+     "end": 8.11
+    },
+    {
+     "w": "off",
+     "start": 8.11,
+     "end": 8.39
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "scene": "hook",
+   "start": 8.9,
+   "text": "All of it? Hmm. Let's draw it.",
+   "words": [
+    {
+     "w": "all",
+     "start": 8.9,
+     "end": 9.36
+    },
+    {
+     "w": "of",
+     "start": 9.36,
+     "end": 9.48
+    },
+    {
+     "w": "it",
+     "start": 9.48,
+     "end": 9.64
+    },
+    {
+     "w": "hmm",
+     "start": 10.04,
+     "end": 10.4
+    },
+    {
+     "w": "let's",
+     "start": 11.0,
+     "end": 11.36
+    },
+    {
+     "w": "draw",
+     "start": 11.36,
+     "end": 11.52
+    },
+    {
+     "w": "it",
+     "start": 11.52,
+     "end": 11.74
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "scene": "steam",
+   "start": 17.24,
+   "text": "Alcohol boils at about 173 degrees Fahrenheit. Water boils at 212.",
+   "words": [
+    {
+     "w": "alcohol",
+     "start": 17.24,
+     "end": 18.56
+    },
+    {
+     "w": "boils",
+     "start": 18.56,
+     "end": 19.02
+    },
+    {
+     "w": "at",
+     "start": 19.02,
+     "end": 19.22
+    },
+    {
+     "w": "about",
+     "start": 19.22,
+     "end": 19.4
+    },
+    {
+     "w": "173",
+     "start": 19.4,
+     "end": 20.5
+    },
+    {
+     "w": "degrees",
+     "start": 20.5,
+     "end": 20.64
+    },
+    {
+     "w": "fahrenheit",
+     "start": 20.64,
+     "end": 21.14
+    },
+    {
+     "w": "water",
+     "start": 21.56,
+     "end": 22.24
+    },
+    {
+     "w": "boils",
+     "start": 22.24,
+     "end": 22.56
+    },
+    {
+     "w": "at",
+     "start": 22.56,
+     "end": 22.9
+    },
+    {
+     "w": "212",
+     "start": 22.9,
+     "end": 23.66
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "scene": "steam",
+   "start": 24.36,
+   "text": "But in the pot they're all mixed up, so they leave together, a little in every puff of steam.",
+   "words": [
+    {
+     "w": "but",
+     "start": 24.36,
+     "end": 24.98
+    },
+    {
+     "w": "in",
+     "start": 24.98,
+     "end": 25.1
+    },
+    {
+     "w": "the",
+     "start": 25.1,
+     "end": 25.2
+    },
+    {
+     "w": "pot",
+     "start": 25.2,
+     "end": 25.46
+    },
+    {
+     "w": "they're",
+     "start": 25.6,
+     "end": 25.84
+    },
+    {
+     "w": "all",
+     "start": 25.84,
+     "end": 26.02
+    },
+    {
+     "w": "mixed",
+     "start": 26.02,
+     "end": 26.3
+    },
+    {
+     "w": "up",
+     "start": 26.3,
+     "end": 26.58
+    },
+    {
+     "w": "so",
+     "start": 26.72,
+     "end": 26.96
+    },
+    {
+     "w": "they",
+     "start": 26.96,
+     "end": 27.1
+    },
+    {
+     "w": "leave",
+     "start": 27.1,
+     "end": 27.32
+    },
+    {
+     "w": "together",
+     "start": 27.32,
+     "end": 27.66
+    },
+    {
+     "w": "a",
+     "start": 27.96,
+     "end": 28.16
+    },
+    {
+     "w": "little",
+     "start": 28.16,
+     "end": 28.32
+    },
+    {
+     "w": "in",
+     "start": 28.32,
+     "end": 28.5
+    },
+    {
+     "w": "every",
+     "start": 28.5,
+     "end": 28.76
+    },
+    {
+     "w": "puff",
+     "start": 28.76,
+     "end": 29.02
+    },
+    {
+     "w": "of",
+     "start": 29.02,
+     "end": 29.14
+    },
+    {
+     "w": "steam",
+     "start": 29.14,
+     "end": 29.38
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "scene": "flame",
+   "start": 30.7,
+   "text": "What about setting it on fire? A flamb\u00e9 looks dramatic, but about three quarters of the alcohol stays in the pan.",
+   "words": [
+    {
+     "w": "what",
+     "start": 30.7,
+     "end": 31.62
+    },
+    {
+     "w": "about",
+     "start": 31.62,
+     "end": 31.84
+    },
+    {
+     "w": "setting",
+     "start": 31.84,
+     "end": 32.14
+    },
+    {
+     "w": "it",
+     "start": 32.14,
+     "end": 32.28
+    },
+    {
+     "w": "on",
+     "start": 32.28,
+     "end": 32.4
+    },
+    {
+     "w": "fire",
+     "start": 32.4,
+     "end": 32.78
+    },
+    {
+     "w": "a",
+     "start": 33.16,
+     "end": 33.62
+    },
+    {
+     "w": "flamb\u00e9",
+     "start": 33.62,
+     "end": 34.0
+    },
+    {
+     "w": "looks",
+     "start": 34.0,
+     "end": 34.22
+    },
+    {
+     "w": "dramatic",
+     "start": 34.22,
+     "end": 34.62
+    },
+    {
+     "w": "but",
+     "start": 34.96,
+     "end": 35.16
+    },
+    {
+     "w": "about",
+     "start": 35.16,
+     "end": 35.36
+    },
+    {
+     "w": "three",
+     "start": 35.36,
+     "end": 35.54
+    },
+    {
+     "w": "quarters",
+     "start": 35.54,
+     "end": 35.86
+    },
+    {
+     "w": "of",
+     "start": 35.86,
+     "end": 36.04
+    },
+    {
+     "w": "the",
+     "start": 36.04,
+     "end": 36.14
+    },
+    {
+     "w": "alcohol",
+     "start": 36.14,
+     "end": 36.52
+    },
+    {
+     "w": "stays",
+     "start": 36.52,
+     "end": 36.84
+    },
+    {
+     "w": "in",
+     "start": 36.84,
+     "end": 37.02
+    },
+    {
+     "w": "the",
+     "start": 37.02,
+     "end": 37.08
+    },
+    {
+     "w": "pan",
+     "start": 37.08,
+     "end": 37.36
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "scene": "clock",
+   "start": 38.48,
+   "text": "Simmer for fifteen minutes, and almost half is still there. After one hour, about a quarter.",
+   "words": [
+    {
+     "w": "simmer",
+     "start": 38.48,
+     "end": 39.36
+    },
+    {
+     "w": "for",
+     "start": 39.36,
+     "end": 39.52
+    },
+    {
+     "w": "15",
+     "start": 39.52,
+     "end": 39.92
+    },
+    {
+     "w": "minutes",
+     "start": 39.92,
+     "end": 40.28
+    },
+    {
+     "w": "and",
+     "start": 40.28,
+     "end": 40.66
+    },
+    {
+     "w": "almost",
+     "start": 40.66,
+     "end": 41.0
+    },
+    {
+     "w": "half",
+     "start": 41.0,
+     "end": 41.26
+    },
+    {
+     "w": "is",
+     "start": 41.26,
+     "end": 41.48
+    },
+    {
+     "w": "still",
+     "start": 41.48,
+     "end": 41.68
+    },
+    {
+     "w": "there",
+     "start": 41.68,
+     "end": 41.98
+    },
+    {
+     "w": "after",
+     "start": 42.22,
+     "end": 42.7
+    },
+    {
+     "w": "one",
+     "start": 42.7,
+     "end": 42.96
+    },
+    {
+     "w": "hour",
+     "start": 42.96,
+     "end": 43.24
+    },
+    {
+     "w": "about",
+     "start": 43.5,
+     "end": 43.8
+    },
+    {
+     "w": "a",
+     "start": 43.8,
+     "end": 43.98
+    },
+    {
+     "w": "quarter",
+     "start": 43.98,
+     "end": 44.22
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "scene": "clock",
+   "start": 44.75,
+   "text": "Even after two and a half hours, about five percent stays in the stew.",
+   "words": [
+    {
+     "w": "even",
+     "start": 45.29,
+     "end": 45.71
+    },
+    {
+     "w": "after",
+     "start": 45.71,
+     "end": 45.93
+    },
+    {
+     "w": "two",
+     "start": 45.93,
+     "end": 46.15
+    },
+    {
+     "w": "and",
+     "start": 46.15,
+     "end": 46.29
+    },
+    {
+     "w": "a",
+     "start": 46.29,
+     "end": 46.35
+    },
+    {
+     "w": "half",
+     "start": 46.35,
+     "end": 46.47
+    },
+    {
+     "w": "hours",
+     "start": 46.47,
+     "end": 46.85
+    },
+    {
+     "w": "about",
+     "start": 47.31,
+     "end": 47.47
+    },
+    {
+     "w": "five",
+     "start": 47.47,
+     "end": 47.75
+    },
+    {
+     "w": "percent",
+     "start": 47.75,
+     "end": 48.11
+    },
+    {
+     "w": "stays",
+     "start": 48.11,
+     "end": 48.47
+    },
+    {
+     "w": "in",
+     "start": 48.47,
+     "end": 48.63
+    },
+    {
+     "w": "the",
+     "start": 48.63,
+     "end": 48.71
+    },
+    {
+     "w": "stew",
+     "start": 48.71,
+     "end": 48.91
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "scene": "tips",
+   "start": 50.05,
+   "text": "So a quick splash at the end keeps most of the alcohol. A long, slow stew keeps only a little.",
+   "words": [
+    {
+     "w": "so",
+     "start": 50.05,
+     "end": 50.43
+    },
+    {
+     "w": "a",
+     "start": 50.43,
+     "end": 50.61
+    },
+    {
+     "w": "quick",
+     "start": 50.61,
+     "end": 50.81
+    },
+    {
+     "w": "splash",
+     "start": 50.81,
+     "end": 51.25
+    },
+    {
+     "w": "at",
+     "start": 51.25,
+     "end": 51.43
+    },
+    {
+     "w": "the",
+     "start": 51.43,
+     "end": 51.53
+    },
+    {
+     "w": "end",
+     "start": 51.53,
+     "end": 51.77
+    },
+    {
+     "w": "keeps",
+     "start": 51.77,
+     "end": 52.09
+    },
+    {
+     "w": "most",
+     "start": 52.09,
+     "end": 52.45
+    },
+    {
+     "w": "of",
+     "start": 52.45,
+     "end": 52.61
+    },
+    {
+     "w": "the",
+     "start": 52.61,
+     "end": 52.71
+    },
+    {
+     "w": "alcohol",
+     "start": 52.71,
+     "end": 53.13
+    },
+    {
+     "w": "a",
+     "start": 53.45,
+     "end": 53.95
+    },
+    {
+     "w": "long",
+     "start": 53.95,
+     "end": 54.29
+    },
+    {
+     "w": "slow",
+     "start": 54.45,
+     "end": 54.71
+    },
+    {
+     "w": "stew",
+     "start": 54.71,
+     "end": 55.07
+    },
+    {
+     "w": "keeps",
+     "start": 55.07,
+     "end": 55.43
+    },
+    {
+     "w": "only",
+     "start": 55.43,
+     "end": 55.73
+    },
+    {
+     "w": "a",
+     "start": 55.73,
+     "end": 55.87
+    },
+    {
+     "w": "little",
+     "start": 55.87,
+     "end": 56.01
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "scene": "tips",
+   "start": 56.55,
+   "text": "Cooking for kids, or for someone who doesn't drink? Use broth, juice, or alcohol-free wine instead.",
+   "words": [
+    {
+     "w": "cooking",
+     "start": 56.55,
+     "end": 57.05
+    },
+    {
+     "w": "for",
+     "start": 57.05,
+     "end": 57.25
+    },
+    {
+     "w": "kids",
+     "start": 57.25,
+     "end": 57.63
+    },
+    {
+     "w": "or",
+     "start": 57.63,
+     "end": 58.21
+    },
+    {
+     "w": "for",
+     "start": 58.21,
+     "end": 58.41
+    },
+    {
+     "w": "someone",
+     "start": 58.41,
+     "end": 58.69
+    },
+    {
+     "w": "who",
+     "start": 58.69,
+     "end": 58.85
+    },
+    {
+     "w": "doesn't",
+     "start": 58.85,
+     "end": 59.11
+    },
+    {
+     "w": "drink",
+     "start": 59.11,
+     "end": 59.37
+    },
+    {
+     "w": "use",
+     "start": 59.63,
+     "end": 60.15
+    },
+    {
+     "w": "broth",
+     "start": 60.15,
+     "end": 60.53
+    },
+    {
+     "w": "juice",
+     "start": 60.79,
+     "end": 61.23
+    },
+    {
+     "w": "or",
+     "start": 61.41,
+     "end": 61.53
+    },
+    {
+     "w": "alcohol",
+     "start": 61.53,
+     "end": 61.97
+    },
+    {
+     "w": "free",
+     "start": 61.97,
+     "end": 62.33
+    },
+    {
+     "w": "wine",
+     "start": 62.33,
+     "end": 62.75
+    },
+    {
+     "w": "instead",
+     "start": 62.75,
+     "end": 63.07
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "scene": "answer",
+   "start": 64.41,
+   "text": "Actually, wait. So cooking never takes out all the alcohol. The longer it simmers, the less is left.",
+   "words": [
+    {
+     "w": "actually",
+     "start": 64.41,
+     "end": 65.01
+    },
+    {
+     "w": "wait",
+     "start": 65.17,
+     "end": 65.33
+    },
+    {
+     "w": "so",
+     "start": 65.75,
+     "end": 66.19
+    },
+    {
+     "w": "cooking",
+     "start": 66.19,
+     "end": 66.59
+    },
+    {
+     "w": "never",
+     "start": 66.59,
+     "end": 66.87
+    },
+    {
+     "w": "takes",
+     "start": 66.87,
+     "end": 67.13
+    },
+    {
+     "w": "out",
+     "start": 67.13,
+     "end": 67.27
+    },
+    {
+     "w": "all",
+     "start": 67.27,
+     "end": 67.43
+    },
+    {
+     "w": "the",
+     "start": 67.43,
+     "end": 67.55
+    },
+    {
+     "w": "alcohol",
+     "start": 67.55,
+     "end": 67.97
+    },
+    {
+     "w": "the",
+     "start": 68.23,
+     "end": 68.67
+    },
+    {
+     "w": "longer",
+     "start": 68.67,
+     "end": 68.95
+    },
+    {
+     "w": "it",
+     "start": 68.95,
+     "end": 69.13
+    },
+    {
+     "w": "simmers",
+     "start": 69.13,
+     "end": 69.53
+    },
+    {
+     "w": "the",
+     "start": 69.73,
+     "end": 69.83
+    },
+    {
+     "w": "less",
+     "start": 69.83,
+     "end": 70.03
+    },
+    {
+     "w": "is",
+     "start": 70.03,
+     "end": 70.19
+    },
+    {
+     "w": "left",
+     "start": 70.19,
+     "end": 70.41
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "scene": "outro",
+   "start": 71.47,
+   "text": "Then does it matter which wine you cook with?",
+   "words": [
+    {
+     "w": "then",
+     "start": 71.47,
+     "end": 71.97
+    },
+    {
+     "w": "does",
+     "start": 71.97,
+     "end": 72.17
+    },
+    {
+     "w": "it",
+     "start": 72.17,
+     "end": 72.29
+    },
+    {
+     "w": "matter",
+     "start": 72.29,
+     "end": 72.59
+    },
+    {
+     "w": "which",
+     "start": 72.59,
+     "end": 72.87
+    },
+    {
+     "w": "wine",
+     "start": 72.87,
+     "end": 73.13
+    },
+    {
+     "w": "you",
+     "start": 73.13,
+     "end": 73.27
+    },
+    {
+     "w": "cook",
+     "start": 73.27,
+     "end": 73.51
+    },
+    {
+     "w": "with",
+     "start": 73.51,
+     "end": 73.69
+    }
+   ]
+  }
+ ]
+}

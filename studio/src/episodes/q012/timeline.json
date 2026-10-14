@@ -1,0 +1,114 @@
+{
+ "lines": [
+  {
+   "i": 0,
+   "scene": "hook",
+   "text": "Dad, there's wine in the stew! Am I allowed to eat it?",
+   "speaker": "pip",
+   "dur": 3.92,
+   "start": 0.6,
+   "end": 4.52
+  },
+  {
+   "i": 1,
+   "scene": "hook",
+   "text": "Sure! When you cook it, all the alcohol burns off.",
+   "speaker": "leo",
+   "dur": 3.68,
+   "start": 4.87,
+   "end": 8.55
+  },
+  {
+   "i": 2,
+   "scene": "hook",
+   "text": "All of it? Hmm. Let's draw it.",
+   "speaker": "maya",
+   "dur": 3.04,
+   "start": 8.9,
+   "end": 11.94
+  },
+  {
+   "i": 3,
+   "scene": "steam",
+   "text": "Alcohol boils at about 173 degrees Fahrenheit. Water boils at 212.",
+   "speaker": "leo",
+   "dur": 6.77,
+   "start": 17.24,
+   "end": 24.01
+  },
+  {
+   "i": 4,
+   "scene": "steam",
+   "text": "But in the pot they're all mixed up, so they leave together, a little in every puff of steam.",
+   "speaker": "leo",
+   "dur": 5.44,
+   "start": 24.36,
+   "end": 29.8
+  },
+  {
+   "i": 5,
+   "scene": "flame",
+   "text": "What about setting it on fire? A flamb\u00e9 looks dramatic, but about three quarters of the alcohol stays in the pan.",
+   "speaker": "leo",
+   "dur": 6.88,
+   "start": 30.7,
+   "end": 37.58
+  },
+  {
+   "i": 6,
+   "scene": "clock",
+   "text": "Simmer for fifteen minutes, and almost half is still there. After one hour, about a quarter.",
+   "speaker": "leo",
+   "dur": 5.92,
+   "start": 38.48,
+   "end": 44.4
+  },
+  {
+   "i": 7,
+   "scene": "clock",
+   "text": "Even after two and a half hours, about five percent stays in the stew.",
+   "speaker": "leo",
+   "dur": 4.4,
+   "start": 44.75,
+   "end": 49.15
+  },
+  {
+   "i": 8,
+   "scene": "tips",
+   "text": "So a quick splash at the end keeps most of the alcohol. A long, slow stew keeps only a little.",
+   "speaker": "maya",
+   "dur": 6.15,
+   "start": 50.05,
+   "end": 56.2
+  },
+  {
+   "i": 9,
+   "scene": "tips",
+   "text": "Cooking for kids, or for someone who doesn't drink? Use broth, juice, or alcohol-free wine instead.",
+   "speaker": "maya",
+   "dur": 6.96,
+   "start": 56.55,
+   "end": 63.51
+  },
+  {
+   "i": 10,
+   "scene": "answer",
+   "text": "Actually, wait. So cooking never takes out all the alcohol. The longer it simmers, the less is left.",
+   "speaker": "theo",
+   "dur": 6.16,
+   "start": 64.41,
+   "end": 70.57
+  },
+  {
+   "i": 11,
+   "scene": "outro",
+   "text": "Then does it matter which wine you cook with?",
+   "speaker": "pip",
+   "dur": 2.48,
+   "start": 71.47,
+   "end": 73.95
+  }
+ ],
+ "total": 80.45,
+ "estimated": false
+}
